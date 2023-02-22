@@ -79,9 +79,9 @@
       "brand": "NIKE",
       "title": "Zip-Front Tracksuit with Placement Logo",
       "price": "3,380",
-      "original-price": "4,695",
+      "originalprice": "4,695",
       "discount": "(28% off)",
-      "offer-price": "3,193"
+      "offerprice": "3,193"
     },
     {
       "id": 2,
@@ -90,9 +90,9 @@
       "brand": "Ardeur",
       "title": "Knit Shorts with Drawstring Waist",
       "price": "240",
-      "original-price": "1,199",
+      "originalprice": "1,199",
       "discount": "(80% off)",
-      "offer-price": "240"
+      "offerprice": "240"
     },
     {
       "id": 3,
@@ -101,9 +101,9 @@
       "brand": "LOUIS PHILIPPE",
       "title": "Mid-Rise Light-Wash Slim Fit Jeans",
       "price": "1,946",
-      "original-price": "3,299",
+      "originalprice": "3,299",
       "discount": "(41% off)",
-      "offer-price": "1,421"
+      "offerprice": "1,421"
     },
     {
       "id": 4,
@@ -112,9 +112,9 @@
       "brand": "GABON",
       "title": "Cargo Pants with Insert Pockets",
       "price": "1,769",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(41% off)",
-      "offer-price": "1,410"
+      "offerprice": "1,410"
     },
     {
       "id": 5,
@@ -123,9 +123,9 @@
       "brand": "THE BEAR HOUSE",
       "title": "Checked Slim Fit Shirt with Patch Pocket",
       "price": "1,497",
-      "original-price": "2,495",
+      "originalprice": "2,495",
       "discount": "(40% off)",
-      "offer-price": "913"
+      "offerprice": "913"
     },
     {
       "id": 6,
@@ -134,9 +134,9 @@
       "brand": "ALTAIR",
       "title": "Checked Slim Fit Shirt",
       "price": "479",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(40% off)",
-      "offer-price": "400"
+      "offerprice": "400"
     },
     {
       "id": 7,
@@ -145,9 +145,9 @@
       "brand": "THE BEAR HOUSE",
       "title": "Slim Fit Polo T-Shirt with Short Sleeves",
       "price": "1,123",
-      "original-price": "2,495",
+      "originalprice": "2,495",
       "discount": "(55% off)",
-      "offer-price": "685"
+      "offerprice": "685"
     },
     {
       "id": 8,
@@ -156,9 +156,9 @@
       "brand": "The Indian Garage Co",
       "title": "Checked Shirt with Patch Pocket",
       "price": "604",
-      "original-price": "1,949",
+      "originalprice": "1,949",
       "discount": "(69% off)",
-      "offer-price": "604"
+      "offerprice": "604"
     },
     {
       "id": 9,
@@ -167,9 +167,9 @@
       "brand": "NIKE",
       "title": "Striped Track Pants with Placement Logo",
       "price": "4,396",
-      "original-price": "5,495",
+      "originalprice": "5,495",
       "discount": "(20% off)",
-      "offer-price": "4,011"
+      "offerprice": "4,011"
     },
     {
       "id": 10,
@@ -178,9 +178,9 @@
       "brand": "BREAKPOINT",
       "title": "Mid-Wash Skinny Fit Jeans",
       "price": "599",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(40% off)",
-      "offer-price": "500"
+      "offerprice": "500"
     },
     {
       "id": 11,
@@ -189,9 +189,9 @@
       "brand": "WRANGLER",
       "title": "Lightly Washed Straight Jeans",
       "price": "1,400",
-      "original-price": "2,799",
+      "originalprice": "2,799",
       "discount": "(50% off)",
-      "offer-price": "1,022"
+      "offerprice": "1,022"
     },
     {
       "id": 12,
@@ -200,9 +200,9 @@
       "brand": "DZIRE",
       "title": "Floral Print Brocade Nehru jacket",
       "price": "1,310",
-      "original-price": "1,795",
+      "originalprice": "1,795",
       "discount": "(27% off)",
-      "offer-price": "1,077"
+      "offerprice": "1,077"
     },
     {
       "id": 13,
@@ -211,9 +211,9 @@
       "brand": "PERFORMAX",
       "title": "Logo Print Court Polo T-Shirt",
       "price": "629",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(10% off)",
-      "offer-price": "629"
+      "offerprice": "629"
     },
     {
       "id": 14,
@@ -222,9 +222,9 @@
       "brand": "ALLEN SOLLY",
       "title": "Slim Fit Flat-Front Trousers",
       "price": "1,617",
-      "original-price": "3,299",
+      "originalprice": "3,299",
       "discount": "(51% off)",
-      "offer-price": "1,180"
+      "offerprice": "1,180"
     },
     {
       "id": 15,
@@ -233,9 +233,9 @@
       "brand": "LEVIS",
       "title": "Slim Fit Shirt with Patch Pocket",
       "price": "1,474",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(41% off)",
-      "offer-price": "1,474"
+      "offerprice": "1,474"
     },
     {
       "id": 16,
@@ -244,9 +244,9 @@
       "brand": "Ketch",
       "title": "Floral Print Slim Fit Shirt",
       "price": "437",
-      "original-price": "1,249",
+      "originalprice": "1,249",
       "discount": "(65% off)",
-      "offer-price": "437"
+      "offerprice": "437"
     },
     {
       "id": 17,
@@ -255,9 +255,9 @@
       "brand": "SUPERDRY",
       "title": "Code Sl Applique Sweat Shorts",
       "price": "2,859",
-      "original-price": "5,499",
+      "originalprice": "5,499",
       "discount": "(48% off)",
-      "offer-price": "2,310"
+      "offerprice": "2,310"
     },
     {
       "id": 18,
@@ -266,9 +266,9 @@
       "brand": "LOUIS PHILIPPE",
       "title": "Heavily Washed Low-Rise Slim Fit Jeans",
       "price": "1,946",
-      "original-price": "3,299",
+      "originalprice": "3,299",
       "discount": "(41% off)",
-      "offer-price": "1,421"
+      "offerprice": "1,421"
     },
     {
       "id": 19,
@@ -277,9 +277,9 @@
       "brand": "SPYKAR",
       "title": "Lightly Washed Skinny Fit Jeans",
       "price": "2,910",
-      "original-price": "4,099",
+      "originalprice": "4,099",
       "discount": "(29% off)",
-      "offer-price": "2,828"
+      "offerprice": "2,828"
     },
     {
       "id": 20,
@@ -288,9 +288,9 @@
       "brand": "ALLEN SOLLY",
       "title": "Cotton Shirt with Patch Pocket",
       "price": "1,179",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(41% off)",
-      "offer-price": "861"
+      "offerprice": "861"
     },
     {
       "id": 21,
@@ -299,9 +299,9 @@
       "brand": "LEVIS",
       "title": "512 Mid-Wash Slim Tapered Fit Jeans",
       "price": "1,884",
-      "original-price": "2,899",
+      "originalprice": "2,899",
       "discount": "(35% off)",
-      "offer-price": "1,884"
+      "offerprice": "1,884"
     },
     {
       "id": 22,
@@ -310,9 +310,9 @@
       "brand": "Ketch",
       "title": "Zip-Front Puffer Jacket with Slip Pockets",
       "price": "700",
-      "original-price": "2,799",
+      "originalprice": "2,799",
       "discount": "(75% off)",
-      "offer-price": "700"
+      "offerprice": "700"
     },
     {
       "id": 23,
@@ -321,9 +321,9 @@
       "brand": "British Club",
       "title": "Printed Slim Fit Shirt",
       "price": "741",
-      "original-price": "1,949",
+      "originalprice": "1,949",
       "discount": "(62% off)",
-      "offer-price": "663"
+      "offerprice": "663"
     },
     {
       "id": 24,
@@ -332,9 +332,9 @@
       "brand": "Bushirt",
       "title": "Spread Collar Shirt with Flap Pockets",
       "price": "1,200",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(60% off)",
-      "offer-price": "1,020"
+      "offerprice": "1,020"
     },
     {
       "id": 25,
@@ -343,9 +343,9 @@
       "brand": "Marks & Spencer",
       "title": "Checked Shirt with Button-Down Collar",
       "price": "2,099",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(30% off)",
-      "offer-price": "1,364"
+      "offerprice": "1,364"
     },
     {
       "id": 26,
@@ -354,9 +354,9 @@
       "brand": "Pepe Jeans",
       "title": "Mid-Wash Straight Fit Jeans",
       "price": "2,013",
-      "original-price": "3,799",
+      "originalprice": "3,799",
       "discount": "(47% off)",
-      "offer-price": "1,786"
+      "offerprice": "1,786"
     },
     {
       "id": 27,
@@ -365,9 +365,9 @@
       "brand": "NIKE",
       "title": "Obsidian Game Straight Fit Track Pants",
       "price": "1,971",
-      "original-price": "2,495",
+      "originalprice": "2,495",
       "discount": "(21% off)",
-      "offer-price": "1,821"
+      "offerprice": "1,821"
     },
     {
       "id": 28,
@@ -376,9 +376,9 @@
       "brand": "The Indian Garage Co",
       "title": "Mid-Rise Slim Fit Jeans",
       "price": "805",
-      "original-price": "2,299",
+      "originalprice": "2,299",
       "discount": "(65% off)",
-      "offer-price": "736"
+      "offerprice": "736"
     },
     {
       "id": 29,
@@ -387,9 +387,9 @@
       "brand": "Lee",
       "title": "Mid-Wash Mid-Rise Jeans",
       "price": "1,400",
-      "original-price": "2,799",
+      "originalprice": "2,799",
       "discount": "(50% off)",
-      "offer-price": "1,022"
+      "offerprice": "1,022"
     },
     {
       "id": 30,
@@ -398,9 +398,9 @@
       "brand": "ADIDAS",
       "title": "Regular Fit Straight Fit Track Pants",
       "price": "2,267",
-      "original-price": "2,799",
+      "originalprice": "2,799",
       "discount": "(19% off)",
-      "offer-price": "2,183"
+      "offerprice": "2,183"
     },
     {
       "id": 31,
@@ -409,9 +409,9 @@
       "brand": "BEWAKOOF",
       "title": "Graphic Print Crew-Neck T-Shirt",
       "price": "660",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(56% off)",
-      "offer-price": "403"
+      "offerprice": "403"
     },
     {
       "id": 32,
@@ -420,9 +420,9 @@
       "brand": "OKANE",
       "title": "Zip-Front Jacket with Track Pants",
       "price": "1,768",
-      "original-price": "2,899",
+      "originalprice": "2,899",
       "discount": "(39% off)",
-      "offer-price": "1,078"
+      "offerprice": "1,078"
     },
     {
       "id": 33,
@@ -431,9 +431,9 @@
       "brand": "Even",
       "title": "Cotton Kurta with Band Collar",
       "price": "778",
-      "original-price": "1,945",
+      "originalprice": "1,945",
       "discount": "(60% off)",
-      "offer-price": "506"
+      "offerprice": "506"
     },
     {
       "id": 34,
@@ -442,9 +442,9 @@
       "brand": "SHOWOFF",
       "title": "Cotton Shirt with Spread Collar",
       "price": "1,061",
-      "original-price": "3,120",
+      "originalprice": "3,120",
       "discount": "(66% off)",
-      "offer-price": "811"
+      "offerprice": "811"
     },
     {
       "id": 35,
@@ -453,8 +453,8 @@
       "brand": "Campus Sutra",
       "title": "Hooded Quilted Jacket",
       "price": "2,274",
-      "offer-price": "1,387",
-      "original-price": "3,499",
+      "offerprice": "1,387",
+      "originalprice": "3,499",
       "discount": "(35% off)"
     },
     {
@@ -464,8 +464,8 @@
       "brand": "PERFORMAX",
       "title": "Colourblock Zip-Front Track Jacket",
       "price": "779",
-      "offer-price": "650",
-      "original-price": "1,299",
+      "offerprice": "650",
+      "originalprice": "1,299",
       "discount": "(40% off)"
     },
     {
@@ -475,8 +475,8 @@
       "brand": "Teamspirit",
       "title": "Zip-Front Puffer Jacket with Zipper Pockets",
       "price": "960",
-      "offer-price": "680",
-      "original-price": "1,999",
+      "offerprice": "680",
+      "originalprice": "1,999",
       "discount": "(52% off)"
     },
     {
@@ -486,8 +486,8 @@
       "brand": "PERFORMAX",
       "title": "Zip-Front Track Jacket with Insert Pockets",
       "price": "490",
-      "offer-price": "400",
-      "original-price": "999",
+      "offerprice": "400",
+      "originalprice": "999",
       "discount": "(51% off)"
     },
     {
@@ -497,8 +497,8 @@
       "brand": "PERFORMAX",
       "title": "Zip-Front Track Jacket with Insert Pockets",
       "price": "490",
-      "offer-price": "400",
-      "original-price": "999",
+      "offerprice": "400",
+      "originalprice": "999",
       "discount": "(51% off)"
     },
     {
@@ -508,8 +508,8 @@
       "brand": "VOXATI",
       "title": "Jacket with Insert Pockets",
       "price": "858",
-      "offer-price": "858",
-      "original-price": "2,599",
+      "offerprice": "858",
+      "originalprice": "2,599",
       "discount": "(67% off)"
     },
     {
@@ -519,8 +519,8 @@
       "brand": "Campus Sutra",
       "title": "Zip-Front Bomber Jacket",
       "price": "2,274",
-      "offer-price": "1,387",
-      "original-price": "3,499",
+      "offerprice": "1,387",
+      "originalprice": "3,499",
       "discount": "(35% off)"
     },
     {
@@ -530,8 +530,8 @@
       "brand": "PERFORMAX",
       "title": "Colourblock Zip-Front Track Jacket",
       "price": "779",
-      "offer-price": "650",
-      "original-price": "1,299",
+      "offerprice": "650",
+      "originalprice": "1,299",
       "discount": "(40% off)"
     },
     {
@@ -541,8 +541,8 @@
       "brand": "Teamspirit",
       "title": "Zip-Front Puffer Jacket",
       "price": "960",
-      "offer-price": "680",
-      "original-price": "1,999",
+      "offerprice": "680",
+      "originalprice": "1,999",
       "discount": "(52% off)"
     }
   ],
@@ -554,9 +554,9 @@
       "brand": "Janasya",
       "title": "Floral Print Fit and Flare Dress",
       "price": "995",
-      "original-price": "2,689",
+      "originalprice": "2,689",
       "discount": "(63% off)",
-      "offer-price": "699"
+      "offerprice": "699"
     },
     {
       "id": 2,
@@ -565,9 +565,9 @@
       "brand": "Teamspirit",
       "title": "Track Pants with Contrast Side Taping",
       "price": "254",
-      "original-price": "499",
+      "originalprice": "499",
       "discount": "(49% off)",
-      "offer-price": "250"
+      "offerprice": "250"
     },
     {
       "id": 3,
@@ -576,9 +576,9 @@
       "brand": "Tulsattva",
       "title": "Floral Print Fit & Flare Dress with Waist Tie-Up",
       "price": "876",
-      "original-price": "1,990",
+      "originalprice": "1,990",
       "discount": "(56% off)",
-      "offer-price": "534"
+      "offerprice": "534"
     },
     {
       "id": 4,
@@ -587,9 +587,9 @@
       "brand": "Janasya",
       "title": "Floral Print Fit & Flare Dress",
       "price": "850",
-      "original-price": "2,298",
+      "originalprice": "2,298",
       "discount": "(63% off)",
-      "offer-price": "597"
+      "offerprice": "597"
     },
     {
       "id": 5,
@@ -598,9 +598,9 @@
       "brand": "Janasya",
       "title": "Woven Tiered Dress with Waist Tie-Up",
       "price": "760",
-      "original-price": "1,899",
+      "originalprice": "1,899",
       "discount": "(60% off)",
-      "offer-price": "494"
+      "offerprice": "494"
     },
     {
       "id": 6,
@@ -609,9 +609,9 @@
       "brand": "Dolce Crudo",
       "title": "High-Rise Skinny Jeans",
       "price": "960",
-      "original-price": "2,399",
+      "originalprice": "2,399",
       "discount": "(60% off)",
-      "offer-price": "624"
+      "offerprice": "624"
     },
     {
       "id": 7,
@@ -620,9 +620,9 @@
       "brand": "Tulsattva",
       "title": "Floral Print Fit & Flare Dress with Waist Tie-Up",
       "price": "876",
-      "original-price": "1,990",
+      "originalprice": "1,990",
       "discount": "(56% off)",
-      "offer-price": "534"
+      "offerprice": "534"
     },
     {
       "id": 8,
@@ -631,9 +631,9 @@
       "brand": "Lee Cooper",
       "title": "Brand Print Crew-Neck T-shirt",
       "price": "343",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(51% off)",
-      "offer-price": "280"
+      "offerprice": "280"
     },
     {
       "id": 9,
@@ -642,9 +642,9 @@
       "brand": "Kibo",
       "title": "Animal Print High-Neck Top",
       "price": "684",
-      "original-price": "1,899",
+      "originalprice": "1,899",
       "discount": "(64% off)",
-      "offer-price": "494"
+      "offerprice": "494"
     },
     {
       "id": 10,
@@ -653,9 +653,9 @@
       "brand": "DNMX",
       "title": "Mid-Wash Skinny Fit Jeans",
       "price": "799",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(20% off)",
-      "offer-price": "799"
+      "offerprice": "799"
     },
     {
       "id": 11,
@@ -664,9 +664,9 @@
       "brand": "KOTTY",
       "title": "High-Rise Straight Fit Pants",
       "price": "460",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(77% off)",
-      "offer-price": "460"
+      "offerprice": "460"
     },
     {
       "id": 12,
@@ -675,9 +675,9 @@
       "brand": "AZIRA",
       "title": "Geometric Print Front-Open Shrug",
       "price": "700",
-      "original-price": "1,399",
+      "originalprice": "1,399",
       "discount": "(50% off)",
-      "offer-price": "602"
+      "offerprice": "602"
     },
     {
       "id": 13,
@@ -686,9 +686,9 @@
       "brand": "Tulsattva",
       "title": "Lace Shirt with Puff Sleeves",
       "price": "995",
-      "original-price": "1,990",
+      "originalprice": "1,990",
       "discount": "(50% off)",
-      "offer-price": "607"
+      "offerprice": "607"
     },
     {
       "id": 14,
@@ -697,9 +697,9 @@
       "brand": "COTTINFAB",
       "title": "Floral Print Fit & Flare Dress",
       "price": "1,184",
-      "original-price": "3,199",
+      "originalprice": "3,199",
       "discount": "(63% off)",
-      "offer-price": "832"
+      "offerprice": "832"
     },
     {
       "id": 15,
@@ -708,9 +708,9 @@
       "brand": "MANIAC",
       "title": "Mid-Rise Flat-Front Trousers",
       "price": "266",
-      "original-price": "1,399",
+      "originalprice": "1,399",
       "discount": "(81% off)",
-      "offer-price": "266"
+      "offerprice": "266"
     },
     {
       "id": 16,
@@ -719,9 +719,9 @@
       "brand": "Mayra",
       "title": "Slim Fit Shirt with Curved Hemline",
       "price": "388",
-      "original-price": "995",
+      "originalprice": "995",
       "discount": "(61% off)",
-      "offer-price": "259"
+      "offerprice": "259"
     },
     {
       "id": 17,
@@ -730,9 +730,9 @@
       "brand": "Lee Cooper",
       "title": "Printed Round-Neck T-shirt",
       "price": "343",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(51% off)",
-      "offer-price": "280"
+      "offerprice": "280"
     },
     {
       "id": 18,
@@ -741,9 +741,9 @@
       "brand": "Clafoutis",
       "title": "Pack of 2 Pleated Square-Neck Tops",
       "price": "430",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(57% off)",
-      "offer-price": "262"
+      "offerprice": "262"
     },
     {
       "id": 19,
@@ -752,9 +752,9 @@
       "brand": "Tior",
       "title": "Floral Print Square-Neck Peplum Top",
       "price": "675",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(55% off)",
-      "offer-price": "412"
+      "offerprice": "412"
     },
     {
       "id": 20,
@@ -763,9 +763,9 @@
       "brand": "KOTTY",
       "title": "High-Rise Straight Fit Pants",
       "price": "460",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(77% off)",
-      "offer-price": "460"
+      "offerprice": "460"
     },
     {
       "id": 21,
@@ -774,9 +774,9 @@
       "brand": "Tior",
       "title": "V-Neck Fit & Flare Dress",
       "price": "720",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(52% off)",
-      "offer-price": "439"
+      "offerprice": "439"
     },
     {
       "id": 22,
@@ -785,9 +785,9 @@
       "brand": "MAX",
       "title": "Graphic Print Crew-Neck T-shirt",
       "price": "209",
-      "original-price": "349",
+      "originalprice": "349",
       "discount": "(40% off)",
-      "offer-price": "175"
+      "offerprice": "175"
     },
     {
       "id": 23,
@@ -796,9 +796,9 @@
       "brand": "Marks & Spencer",
       "title": "Flared Flat-Front Pant",
       "price": "1,099",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(45% off)",
-      "offer-price": "840"
+      "offerprice": "840"
     },
     {
       "id": 24,
@@ -807,9 +807,9 @@
       "brand": "Kibo",
       "title": "Floral Print V-Neck Top",
       "price": "640",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(60% off)",
-      "offer-price": "416"
+      "offerprice": "416"
     },
     {
       "id": 25,
@@ -818,9 +818,9 @@
       "brand": "DNMX",
       "title": "Skinny Fit Mid-Rise Jeans",
       "price": "577",
-      "original-price": "1,049",
+      "originalprice": "1,049",
       "discount": "(45% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 26,
@@ -829,9 +829,9 @@
       "brand": "DNMX",
       "title": "Lightly Washed Skinny Denim Jeans",
       "price": "577",
-      "original-price": "1,049",
+      "originalprice": "1,049",
       "discount": "(45% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 27,
@@ -840,9 +840,9 @@
       "brand": "Style Quotient",
       "title": "Printed Crew-Neck Top",
       "price": "572",
-      "original-price": "1,299",
+      "originalprice": "1,299",
       "discount": "(56% off)",
-      "offer-price": "349"
+      "offerprice": "349"
     },
     {
       "id": 28,
@@ -851,9 +851,9 @@
       "brand": "Pannkh",
       "title": "Novelty Top",
       "price": "340",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(66% off)",
-      "offer-price": "300"
+      "offerprice": "300"
     },
     {
       "id": 29,
@@ -862,9 +862,9 @@
       "brand": "Kasya",
       "title": "V-Neck Fit & Flare Dress",
       "price": "1,000",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(50% off)",
-      "offer-price": "860"
+      "offerprice": "860"
     },
     {
       "id": 30,
@@ -873,9 +873,9 @@
       "brand": "DJ & C",
       "title": "Floral Print Crew-Neck T-Shirt",
       "price": "209",
-      "original-price": "349",
+      "originalprice": "349",
       "discount": "(40% off)",
-      "offer-price": "175"
+      "offerprice": "175"
     },
     {
       "id": 31,
@@ -884,9 +884,9 @@
       "brand": "DNMX",
       "title": "Mid-Rise Skinny Fit Jeans",
       "price": "639",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(20% off)",
-      "offer-price": "639"
+      "offerprice": "639"
     },
     {
       "id": 32,
@@ -895,9 +895,9 @@
       "brand": "HAWT",
       "title": "Printed Boat-Neck Top",
       "price": "239",
-      "original-price": "399",
+      "originalprice": "399",
       "discount": "(40% off)",
-      "offer-price": "200"
+      "offerprice": "200"
     },
     {
       "id": 33,
@@ -906,9 +906,9 @@
       "brand": "Wedani",
       "title": "Floral Print Round-Neck Top",
       "price": "249",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(88% off)",
-      "offer-price": "249"
+      "offerprice": "249"
     },
     {
       "id": 34,
@@ -917,9 +917,9 @@
       "brand": "RUDRAAKSHA",
       "title": "Printed A-line Dress",
       "price": "600",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(70% off)",
-      "offer-price": "600"
+      "offerprice": "600"
     },
     {
       "id": 35,
@@ -928,9 +928,9 @@
       "brand": "DIFFERENCE OF OPINION",
       "title": "Tie & Dye Crew-Neck Oversized T-shirt",
       "price": "518",
-      "original-price": "1,399",
+      "originalprice": "1,399",
       "discount": "(63% off)",
-      "offer-price": "364"
+      "offerprice": "364"
     },
     {
       "id": 36,
@@ -939,9 +939,9 @@
       "brand": "FIG",
       "title": "Striped Crew-Neck T-Shirt",
       "price": "288",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(52% off)",
-      "offer-price": "204"
+      "offerprice": "204"
     },
     {
       "id": 37,
@@ -950,9 +950,9 @@
       "brand": "Outryt",
       "title": "Lightly Washed Distressed Straight Leg Jeans",
       "price": "860",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(57% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 38,
@@ -961,9 +961,9 @@
       "brand": "HARPA",
       "title": "Polka-Dot Print Tailored Fit Peplum Top",
       "price": "520",
-      "original-price": "1,299",
+      "originalprice": "1,299",
       "discount": "(60% off)",
-      "offer-price": "338"
+      "offerprice": "338"
     },
     {
       "id": 39,
@@ -972,9 +972,9 @@
       "brand": "Kibo",
       "title": "Micro Print V-neck Top",
       "price": "860",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(57% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 40,
@@ -983,9 +983,9 @@
       "brand": "DNMX",
       "title": "Lightly Washed Skinny Jeans",
       "price": "577",
-      "original-price": "1,049",
+      "originalprice": "1,049",
       "discount": "(45% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 41,
@@ -994,9 +994,9 @@
       "brand": "Lee Cooper",
       "title": "High-Rise Skinny Fit Jeans",
       "price": "989",
-      "original-price": "1,799",
+      "originalprice": "1,799",
       "discount": "(45% off)",
-      "offer-price": "989"
+      "offerprice": "989"
     },
     {
       "id": 42,
@@ -1005,9 +1005,9 @@
       "brand": "Wisstler",
       "title": "Floral Print Fit & Flare Dress",
       "price": "989",
-      "original-price": "1,799",
+      "originalprice": "1,799",
       "discount": "(45% off)",
-      "offer-price": "989"
+      "offerprice": "989"
     },
     {
       "id": 43,
@@ -1016,9 +1016,9 @@
       "brand": "Teamspirit",
       "title": "Striped Twofer Top",
       "price": "336",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(52% off)",
-      "offer-price": "238"
+      "offerprice": "238"
     },
     {
       "id": 44,
@@ -1027,9 +1027,9 @@
       "brand": "COTTINFAB",
       "title": "Solid Shirt with Trousers Set",
       "price": "1,386",
-      "original-price": "3,299",
+      "originalprice": "3,299",
       "discount": "(58% off)",
-      "offer-price": "858"
+      "offerprice": "858"
     },
     {
       "id": 45,
@@ -1038,9 +1038,9 @@
       "brand": "KAFF",
       "title": "Leggings with Elastic Waist",
       "price": "360",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(60% off)",
-      "offer-price": "360"
+      "offerprice": "360"
     },
     {
       "id": 46,
@@ -1049,9 +1049,9 @@
       "brand": "RIO",
       "title": "Skinny Jeggings with Zip Pockets",
       "price": "699",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(30% off)",
-      "offer-price": "500"
+      "offerprice": "500"
     },
     {
       "id": 47,
@@ -1060,9 +1060,9 @@
       "brand": "Teamspirit",
       "title": "High-Rise Sports Leggings",
       "price": "480",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(52% off)",
-      "offer-price": "340"
+      "offerprice": "340"
     },
     {
       "id": 48,
@@ -1071,9 +1071,9 @@
       "brand": "JDY BY ONLY",
       "title": "Boyfriend Jeans with Insert Pockets",
       "price": "1,624",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(35% off)",
-      "offer-price": "1,374"
+      "offerprice": "1,374"
     },
     {
       "id": 49,
@@ -1082,9 +1082,9 @@
       "brand": "MASAKALI.CO",
       "title": "Floral Print Fit & Flare Dress",
       "price": "810",
-      "original-price": "2,249",
+      "originalprice": "2,249",
       "discount": "(64% off)",
-      "offer-price": "585"
+      "offerprice": "585"
     },
     {
       "id": 50,
@@ -1093,9 +1093,9 @@
       "brand": "FIG",
       "title": "Floral Print Top with Butterfly Sleeves",
       "price": "288",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(52% off)",
-      "offer-price": "204"
+      "offerprice": "204"
     }
   ],
   "kids": [
@@ -1106,9 +1106,9 @@
       "brand": "DISNEY",
       "title": "Daisy Duck Round-Neck T-shirt",
       "price": "75",
-      "original-price": "249",
+      "originalprice": "249",
       "discount": "(70% off)",
-      "offer-price": "75"
+      "offerprice": "75"
     },
     {
       "id": 2,
@@ -1117,9 +1117,9 @@
       "brand": "DISNEY",
       "title": "Team Princess Print Crew-Neck T-shirt",
       "price": "75",
-      "original-price": "249",
+      "originalprice": "249",
       "discount": "(70% off)",
-      "offer-price": "75"
+      "offerprice": "75"
     },
     {
       "id": 3,
@@ -1128,9 +1128,9 @@
       "brand": "Trampoline",
       "title": "Animal  Printed Regular Fit Pyjamas",
       "price": "368",
-      "original-price": "969",
+      "originalprice": "969",
       "discount": "(62% off)",
-      "offer-price": "252"
+      "offerprice": "252"
     },
     {
       "id": 4,
@@ -1139,9 +1139,9 @@
       "brand": "OTHER CHARACTERS",
       "title": "Cartoon Print Crew-Neck T-shirt",
       "price": "75",
-      "original-price": "249",
+      "originalprice": "249",
       "discount": "(70% off)",
-      "offer-price": "75"
+      "offerprice": "75"
     },
     {
       "id": 5,
@@ -1150,9 +1150,9 @@
       "brand": "DISNEY",
       "title": "Hulk Print Cotton Shorts with Drawstrings",
       "price": "120",
-      "original-price": "399",
+      "originalprice": "399",
       "discount": "(70% off)",
-      "offer-price": "120"
+      "offerprice": "120"
     },
     {
       "id": 6,
@@ -1161,9 +1161,9 @@
       "brand": "Trampoline",
       "title": "Pack of 3 Heathered Joggers",
       "price": "733",
-      "original-price": "1,745",
+      "originalprice": "1,745",
       "discount": "(58% off)",
-      "offer-price": "454"
+      "offerprice": "454"
     },
     {
       "id": 7,
@@ -1172,9 +1172,9 @@
       "brand": "DISNEY",
       "title": "The Little Mermaid Round-Neck T-shirt",
       "price": "135",
-      "original-price": "449",
+      "originalprice": "449",
       "discount": "(70% off)",
-      "offer-price": "135"
+      "offerprice": "135"
     },
     {
       "id": 8,
@@ -1183,9 +1183,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Numeric Print Henley T-shirt",
       "price": "127",
-      "original-price": "249",
+      "originalprice": "249",
       "discount": "(49% off)",
-      "offer-price": "125"
+      "offerprice": "125"
     },
     {
       "id": 9,
@@ -1194,9 +1194,9 @@
       "brand": "TOONYPORT",
       "title": "Printed Shorts & T-shirt Set",
       "price": "251",
-      "original-price": "739",
+      "originalprice": "739",
       "discount": "(66% off)",
-      "offer-price": "251"
+      "offerprice": "251"
     },
     {
       "id": 10,
@@ -1205,9 +1205,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Looper Placement Typographic Print Shorts",
       "price": "152",
-      "original-price": "299",
+      "originalprice": "299",
       "discount": "(49% off)",
-      "offer-price": "150"
+      "offerprice": "150"
     },
     {
       "id": 11,
@@ -1216,9 +1216,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Jogger Pants with Zipper Pockets",
       "price": "509",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(15% off)",
-      "offer-price": "479"
+      "offerprice": "479"
     },
     {
       "id": 12,
@@ -1227,9 +1227,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Checked 3-Piece Suit Set with Bow Tie",
       "price": "900",
-      "original-price": "1,799",
+      "originalprice": "1,799",
       "discount": "(50% off)",
-      "offer-price": "810"
+      "offerprice": "810"
     },
     {
       "id": 13,
@@ -1238,9 +1238,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Printed Shorts with Elasticated Waist",
       "price": "264",
-      "original-price": "549",
+      "originalprice": "549",
       "discount": "(52% off)",
-      "offer-price": "187"
+      "offerprice": "187"
     },
     {
       "id": 14,
@@ -1249,9 +1249,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Graphic Print Shorts with Elasticated Drawstring Waist",
       "price": "264",
-      "original-price": "549",
+      "originalprice": "549",
       "discount": "(52% off)",
-      "offer-price": "187"
+      "offerprice": "187"
     },
     {
       "id": 15,
@@ -1260,9 +1260,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Mid-Rise Relaxed Fit Jeans",
       "price": "424",
-      "original-price": "499",
+      "originalprice": "499",
       "discount": "(15% off)",
-      "offer-price": "399"
+      "offerprice": "399"
     },
     {
       "id": 16,
@@ -1271,9 +1271,9 @@
       "brand": "DISNEY",
       "title": "Minnie Mouse Sequinned Round-Neck T-shirt",
       "price": "135",
-      "original-price": "449",
+      "originalprice": "449",
       "discount": "(70% off)",
-      "offer-price": "135"
+      "offerprice": "135"
     },
     {
       "id": 17,
@@ -1282,9 +1282,9 @@
       "brand": "DJ & C",
       "title": "Printed Crew-Neck T-Shirt",
       "price": "177",
-      "original-price": "249",
+      "originalprice": "249",
       "discount": "(29% off)",
-      "offer-price": "174"
+      "offerprice": "174"
     },
     {
       "id": 18,
@@ -1293,9 +1293,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Graphic Print Shirt with Patch Pockets",
       "price": "275",
-      "original-price": "549",
+      "originalprice": "549",
       "discount": "(50% off)",
-      "offer-price": "247"
+      "offerprice": "247"
     },
     {
       "id": 19,
@@ -1304,9 +1304,9 @@
       "brand": "YB DNMX",
       "title": "Striped Cargo Joggers",
       "price": "390",
-      "original-price": "1,299",
+      "originalprice": "1,299",
       "discount": "(70% off)",
-      "offer-price": "390"
+      "offerprice": "390"
     },
     {
       "id": 20,
@@ -1315,9 +1315,9 @@
       "brand": "Trampoline",
       "title": "Pack of 2 Printed Joggers",
       "price": "482",
-      "original-price": "1,175",
+      "originalprice": "1,175",
       "discount": "(59% off)",
-      "offer-price": "306"
+      "offerprice": "306"
     },
     {
       "id": 21,
@@ -1326,9 +1326,9 @@
       "brand": "HOPSCOTCH",
       "title": "Graphic Print Set",
       "price": "550",
-      "original-price": "1,079",
+      "originalprice": "1,079",
       "discount": "(49% off)",
-      "offer-price": "486"
+      "offerprice": "486"
     },
     {
       "id": 22,
@@ -1337,9 +1337,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Jogger Pants with Panels",
       "price": "384",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(52% off)",
-      "offer-price": "272"
+      "offerprice": "272"
     },
     {
       "id": 23,
@@ -1348,9 +1348,9 @@
       "brand": "Trampoline",
       "title": "Pack of 5 Printed Pyjamas",
       "price": "486",
-      "original-price": "1,185",
+      "originalprice": "1,185",
       "discount": "(59% off)",
-      "offer-price": "308"
+      "offerprice": "308"
     },
     {
       "id": 24,
@@ -1359,9 +1359,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Printed Shirt with Mandarin Collar",
       "price": "275",
-      "original-price": "549",
+      "originalprice": "549",
       "discount": "(50% off)",
-      "offer-price": "247"
+      "offerprice": "247"
     },
     {
       "id": 25,
@@ -1370,9 +1370,9 @@
       "brand": "YB DNMX",
       "title": "Slim Fit Cotton Jeans",
       "price": "577",
-      "original-price": "1,049",
+      "originalprice": "1,049",
       "discount": "(45% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 26,
@@ -1381,9 +1381,9 @@
       "brand": "YB DNMX",
       "title": "Colourblock Crew-Neck Pocket T-shirt",
       "price": "180",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(70% off)",
-      "offer-price": "180"
+      "offerprice": "180"
     },
     {
       "id": 27,
@@ -1392,9 +1392,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "16 Wales Corduroy Straight Fit Flat-Front Trousers",
       "price": "350",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(50% off)",
-      "offer-price": "315"
+      "offerprice": "315"
     },
     {
       "id": 28,
@@ -1403,9 +1403,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Heavily Washed Slim Fit Jeans",
       "price": "450",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(50% off)",
-      "offer-price": "405"
+      "offerprice": "405"
     },
     {
       "id": 29,
@@ -1414,9 +1414,9 @@
       "brand": "KB TEAM SPIRIT",
       "title": "Looper Placement Typographic Print Shorts",
       "price": "152",
-      "original-price": "299",
+      "originalprice": "299",
       "discount": "(49% off)",
-      "offer-price": "150"
+      "offerprice": "150"
     },
     {
       "id": 30,
@@ -1425,9 +1425,9 @@
       "brand": "YB DNMX",
       "title": "Tropical Print Cargo Shorts",
       "price": "432",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(52% off)",
-      "offer-price": "306"
+      "offerprice": "306"
     },
     {
       "id": 31,
@@ -1436,9 +1436,9 @@
       "brand": "Youbella",
       "title": "Hair Accessories Set",
       "price": "330",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(67% off)",
-      "offer-price": "330"
+      "offerprice": "330"
     },
     {
       "id": 32,
@@ -1447,9 +1447,9 @@
       "brand": "KG FRENDZ",
       "title": "Floral Print Dungaree with Waist Tie-Up",
       "price": "288",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(52% off)",
-      "offer-price": "204"
+      "offerprice": "204"
     },
     {
       "id": 33,
@@ -1458,9 +1458,9 @@
       "brand": "RIO GIRLS",
       "title": "Polka-Dot Print Pleated Culottes",
       "price": "336",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(52% off)",
-      "offer-price": "238"
+      "offerprice": "238"
     },
     {
       "id": 34,
@@ -1469,9 +1469,9 @@
       "brand": "Youbella",
       "title": "Hair Accessories Set",
       "price": "330",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(67% off)",
-      "offer-price": "330"
+      "offerprice": "330"
     },
     {
       "id": 35,
@@ -1480,9 +1480,9 @@
       "brand": "PINK N BLUE",
       "title": "Printed Round-Neck T-Shirt",
       "price": "86",
-      "original-price": "179",
+      "originalprice": "179",
       "discount": "(52% off)",
-      "offer-price": "86"
+      "offerprice": "86"
     },
     {
       "id": 36,
@@ -1491,9 +1491,9 @@
       "brand": "KG FRENDZ",
       "title": "Embellished Fit & Flare Dress",
       "price": "300",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(70% off)",
-      "offer-price": "300"
+      "offerprice": "300"
     },
     {
       "id": 37,
@@ -1502,9 +1502,9 @@
       "brand": "KG FRENDZ",
       "title": "Floral Print A-line Dress with Ruffled Overlay",
       "price": "288",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(52% off)",
-      "offer-price": "204"
+      "offerprice": "204"
     },
     {
       "id": 38,
@@ -1513,9 +1513,9 @@
       "brand": "NAUGHTY NINOS",
       "title": "Embroidered Jumpsuit",
       "price": "899",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(40% off)",
-      "offer-price": "899"
+      "offerprice": "899"
     },
     {
       "id": 39,
@@ -1524,9 +1524,9 @@
       "brand": "RIO GIRLS",
       "title": "Floral Print Fit & Flare Dress",
       "price": "384",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(52% off)",
-      "offer-price": "272"
+      "offerprice": "272"
     },
     {
       "id": 40,
@@ -1535,9 +1535,9 @@
       "brand": "Pspeaches",
       "title": "Floral Fit and Flare Dress",
       "price": "1,125",
-      "original-price": "2,500",
+      "originalprice": "2,500",
       "discount": "(55% off)",
-      "offer-price": "686"
+      "offerprice": "686"
     },
     {
       "id": 41,
@@ -1546,9 +1546,9 @@
       "brand": "KG FRENDZ",
       "title": "Printed Strappy Dungarees",
       "price": "288",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(52% off)",
-      "offer-price": "204"
+      "offerprice": "204"
     },
     {
       "id": 42,
@@ -1557,9 +1557,9 @@
       "brand": "KIDDERZ",
       "title": "Floral Print Gathered-Neck Top",
       "price": "179",
-      "original-price": "299",
+      "originalprice": "299",
       "discount": "(40% off)",
-      "offer-price": "150"
+      "offerprice": "150"
     },
     {
       "id": 43,
@@ -1568,9 +1568,9 @@
       "brand": "KG FRENDZ",
       "title": "Geometric Print Dungarees with Welt Pockets",
       "price": "240",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(70% off)",
-      "offer-price": "240"
+      "offerprice": "240"
     },
     {
       "id": 44,
@@ -1579,9 +1579,9 @@
       "brand": "RIO GIRLS",
       "title": "Floral A -line Dress with Ruffles",
       "price": "384",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(52% off)",
-      "offer-price": "272"
+      "offerprice": "272"
     },
     {
       "id": 45,
@@ -1590,9 +1590,9 @@
       "brand": "KG FRENDZ",
       "title": "Floral Print Joggers with Ruffles",
       "price": "216",
-      "original-price": "449",
+      "originalprice": "449",
       "discount": "(52% off)",
-      "offer-price": "153"
+      "offerprice": "153"
     },
     {
       "id": 46,
@@ -1601,9 +1601,9 @@
       "brand": "RIO GIRLS",
       "title": "Relaxed Fit Chinos with Insert Pockets",
       "price": "432",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(52% off)",
-      "offer-price": "306"
+      "offerprice": "306"
     },
     {
       "id": 47,
@@ -1612,9 +1612,9 @@
       "brand": "RIO GIRLS",
       "title": "Floral Print A-line Dress",
       "price": "288",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(52% off)",
-      "offer-price": "204"
+      "offerprice": "204"
     },
     {
       "id": 48,
@@ -1623,9 +1623,9 @@
       "brand": "KG FRENDZ",
       "title": "Printed Dungaree with T-shirt",
       "price": "432",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(52% off)",
-      "offer-price": "306"
+      "offerprice": "306"
     },
     {
       "id": 49,
@@ -1634,9 +1634,9 @@
       "brand": "RIO GIRLS",
       "title": "Striped Frock with Pockets",
       "price": "336",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(52% off)",
-      "offer-price": "238"
+      "offerprice": "238"
     },
     {
       "id": 50,
@@ -1645,9 +1645,9 @@
       "brand": "RIO GIRLS",
       "title": "Shirt Dress with Waist Tie-Up",
       "price": "480",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(52% off)",
-      "offer-price": "340"
+      "offerprice": "340"
     },
     {
       "id": 51,
@@ -1656,9 +1656,9 @@
       "brand": "KG FRENDZ",
       "title": "Printed Frock with Elasticated Waist",
       "price": "240",
-      "original-price": "499",
+      "originalprice": "499",
       "discount": "(52% off)",
-      "offer-price": "170"
+      "offerprice": "170"
     },
     {
       "id": 52,
@@ -1667,9 +1667,9 @@
       "brand": "FIG",
       "title": "Polka-Dot Print Top with Patch Pockets",
       "price": "679",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(32% off)",
-      "offer-price": "609"
+      "offerprice": "609"
     },
     {
       "id": 53,
@@ -1678,9 +1678,9 @@
       "brand": "RIO GIRLS",
       "title": "Embroidered Round-Neck Top",
       "price": "384",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(52% off)",
-      "offer-price": "272"
+      "offerprice": "272"
     },
     {
       "id": 54,
@@ -1689,9 +1689,9 @@
       "brand": "RIO GIRLS",
       "title": "Floral Print Leggings with Elasticated Waistband",
       "price": "152",
-      "original-price": "299",
+      "originalprice": "299",
       "discount": "(49% off)",
-      "offer-price": "150"
+      "offerprice": "150"
     },
     {
       "id": 55,
@@ -1700,9 +1700,9 @@
       "brand": "HAMLEYS",
       "title": "LED Hover Football",
       "price": "407",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(32% off)",
-      "offer-price": "365"
+      "offerprice": "365"
     },
     {
       "id": 56,
@@ -1711,9 +1711,9 @@
       "brand": "YOUREKA",
       "title": "Small Musical Rotating Fishing Game",
       "price": "679",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(32% off)",
-      "offer-price": "609"
+      "offerprice": "609"
     },
     {
       "id": 57,
@@ -1722,9 +1722,9 @@
       "brand": "NERF",
       "title": "Strike Elite Disruptor Gun",
       "price": "649",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(35% off)",
-      "offer-price": "609"
+      "offerprice": "609"
     },
     {
       "id": 58,
@@ -1733,9 +1733,9 @@
       "brand": "HAMLEYS",
       "title": "Squap Catch Ball Game",
       "price": "747",
-      "original-price": "1,099",
+      "originalprice": "1,099",
       "discount": "(32% off)",
-      "offer-price": "670"
+      "offerprice": "670"
     },
     {
       "id": 59,
@@ -1744,9 +1744,9 @@
       "brand": "ELC",
       "title": "Twist & Turn House",
       "price": "1,087",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(32% off)",
-      "offer-price": "975"
+      "offerprice": "975"
     },
     {
       "id": 60,
@@ -1755,9 +1755,9 @@
       "brand": "DIHUA",
       "title": "2.4 G Remote Control Flip Over Stunt Car with Lights",
       "price": "2,209",
-      "original-price": "2,599",
+      "originalprice": "2,599",
       "discount": "(15% off)",
-      "offer-price": "1,546"
+      "offerprice": "1,546"
     },
     {
       "id": 61,
@@ -1766,9 +1766,9 @@
       "brand": "HAMLEYS",
       "title": "Frozen 2-wheel Scooter",
       "price": "2,039",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(32% off)",
-      "offer-price": "1,829"
+      "offerprice": "1,829"
     },
     {
       "id": 62,
@@ -1777,9 +1777,9 @@
       "brand": "NERF",
       "title": "Elite 2.0 Shockwave Rd-15 Blaster 30 Nerf Darts",
       "price": "2,459",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(18% off)",
-      "offer-price": "1,721"
+      "offerprice": "1,721"
     },
     {
       "id": 63,
@@ -1788,9 +1788,9 @@
       "brand": "FUNSKOOL",
       "title": "Othello Strategy Board Game",
       "price": "527",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(12% off)",
-      "offer-price": "369"
+      "offerprice": "369"
     },
     {
       "id": 64,
@@ -1799,9 +1799,9 @@
       "brand": "NERF",
       "title": "Elite 2.0 Commander RD-6 Blaster Gun",
       "price": "1,229",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(18% off)",
-      "offer-price": "860"
+      "offerprice": "860"
     },
     {
       "id": 65,
@@ -1810,9 +1810,9 @@
       "brand": "HAMLEYS",
       "title": "Papa Panda Soft Toy",
       "price": "2,719",
-      "original-price": "3,999",
+      "originalprice": "3,999",
       "discount": "(32% off)",
-      "offer-price": "2,439"
+      "offerprice": "2,439"
     },
     {
       "id": 66,
@@ -1821,9 +1821,9 @@
       "brand": "PLAYNXT",
       "title": "Indoor Golf Set",
       "price": "1,559",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(22% off)",
-      "offer-price": "1,091"
+      "offerprice": "1,091"
     },
     {
       "id": 67,
@@ -1832,9 +1832,9 @@
       "brand": "HAMLEYS",
       "title": "Glow Art Sonic Led Drawing Board",
       "price": "1,759",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(12% off)",
-      "offer-price": "1,619"
+      "offerprice": "1,619"
     },
     {
       "id": 68,
@@ -1843,9 +1843,9 @@
       "brand": "ITOYS",
       "title": "Baby Ball Pool",
       "price": "2,843",
-      "original-price": "3,599",
+      "originalprice": "3,599",
       "discount": "(21% off)",
-      "offer-price": "2,555"
+      "offerprice": "2,555"
     },
     {
       "id": 69,
@@ -1854,9 +1854,9 @@
       "brand": "HAMLEYS",
       "title": "Air Hockey Table with Adapter",
       "price": "4,319",
-      "original-price": "5,999",
+      "originalprice": "5,999",
       "discount": "(28% off)",
-      "offer-price": "3,959"
+      "offerprice": "3,959"
     },
     {
       "id": 70,
@@ -1865,9 +1865,9 @@
       "brand": "PLAYNXT",
       "title": "Happy Hoops Fun & Fitness",
       "price": "330",
-      "original-price": "359",
+      "originalprice": "359",
       "discount": "(8% off)",
-      "offer-price": "309"
+      "offerprice": "309"
     },
     {
       "id": 71,
@@ -1876,9 +1876,9 @@
       "brand": "HAMLEYS",
       "title": "Pedro Penguin Soft Cuddler",
       "price": "2,039",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(32% off)",
-      "offer-price": "1,829"
+      "offerprice": "1,829"
     },
     {
       "id": 72,
@@ -1887,9 +1887,9 @@
       "brand": "Karmax",
       "title": "54-Piece Mindmagnet Set",
       "price": "2,379",
-      "original-price": "3,499",
+      "originalprice": "3,499",
       "discount": "(32% off)",
-      "offer-price": "2,134"
+      "offerprice": "2,134"
     },
     {
       "id": 73,
@@ -1898,9 +1898,9 @@
       "brand": "HAMLEYS",
       "title": "Foosball Game Table",
       "price": "3,824",
-      "original-price": "4,499",
+      "originalprice": "4,499",
       "discount": "(15% off)",
-      "offer-price": "3,644"
+      "offerprice": "3,644"
     },
     {
       "id": 74,
@@ -1909,9 +1909,9 @@
       "brand": "KINGDOM OF PLAY",
       "title": "Ice Cream & Candy Cart",
       "price": "1,169",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(22% off)",
-      "offer-price": "1,064"
+      "offerprice": "1,064"
     },
     {
       "id": 75,
@@ -1920,9 +1920,9 @@
       "brand": "Mirada",
       "title": "Bunny Plush Toy",
       "price": "791",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(12% off)",
-      "offer-price": "728"
+      "offerprice": "728"
     },
     {
       "id": 76,
@@ -1931,9 +1931,9 @@
       "brand": "SHOOTING STAR",
       "title": "Pound Peg Plastic Toy with Hammer",
       "price": "407",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(32% off)",
-      "offer-price": "365"
+      "offerprice": "365"
     },
     {
       "id": 77,
@@ -1942,9 +1942,9 @@
       "brand": "Hasbro",
       "title": "Jenga Tube Pack with Hardwood Blocks",
       "price": "919",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(8% off)",
-      "offer-price": "859"
+      "offerprice": "859"
     },
     {
       "id": 78,
@@ -1953,9 +1953,9 @@
       "brand": "PLAY PANDA",
       "title": "Magnetic Puzzles Square Large",
       "price": "339",
-      "original-price": "499",
+      "originalprice": "499",
       "discount": "(32% off)",
-      "offer-price": "304"
+      "offerprice": "304"
     },
     {
       "id": 79,
@@ -1964,9 +1964,9 @@
       "brand": "ZOOZI",
       "title": "Mount & Play Basketball Set",
       "price": "407",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(32% off)",
-      "offer-price": "365"
+      "offerprice": "365"
     },
     {
       "id": 80,
@@ -1975,9 +1975,9 @@
       "brand": "HAMLEYS",
       "title": "Hamleys Star Basketball",
       "price": "679",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(32% off)",
-      "offer-price": "509"
+      "offerprice": "509"
     },
     {
       "id": 81,
@@ -1986,9 +1986,9 @@
       "brand": "HAMLEYS",
       "title": "Spider-Man 2-wheel Scooter",
       "price": "2,039",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(32% off)",
-      "offer-price": "1,829"
+      "offerprice": "1,829"
     }
   ],
   "indie": [
@@ -1999,9 +1999,9 @@
       "brand": "Gorgone",
       "title": "Gorgone Pink Mysore Silk abstract print Saree with Blouse Piece Saree",
       "price": "371",
-      "original-price": "2,651",
+      "originalprice": "2,651",
       "discount": "(86% off)",
-      "offer-price": "371"
+      "offerprice": "371"
     },
     {
       "id": 2,
@@ -2010,9 +2010,9 @@
       "brand": "Gorgone",
       "title": "Mysore Silk Warli Printed Saree",
       "price": "350",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(50% off)",
-      "offer-price": "301"
+      "offerprice": "301"
     },
     {
       "id": 3,
@@ -2021,9 +2021,9 @@
       "brand": "Gorgone",
       "title": "Mysore Silk Ethnic Motifs Saree",
       "price": "358",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(82% off)",
-      "offer-price": "358"
+      "offerprice": "358"
     },
     {
       "id": 4,
@@ -2032,9 +2032,9 @@
       "brand": "Gorgone",
       "title": "Printed Saree with Tassel Accent",
       "price": "350",
-      "original-price": "699",
+      "originalprice": "699",
       "discount": "(50% off)",
-      "offer-price": "301"
+      "offerprice": "301"
     },
     {
       "id": 5,
@@ -2043,9 +2043,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Cotton Dobby Straight Kurta with Lace Detailing",
       "price": "1,344",
-      "original-price": "2,799",
+      "originalprice": "2,799",
       "discount": "(52% off)",
-      "offer-price": "980"
+      "offerprice": "980"
     },
     {
       "id": 6,
@@ -2054,9 +2054,9 @@
       "brand": "Gorgone",
       "title": "Floral Pattern Saree with Contrast Border",
       "price": "358",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(82% off)",
-      "offer-price": "358"
+      "offerprice": "358"
     },
     {
       "id": 7,
@@ -2065,9 +2065,9 @@
       "brand": "Ethnic Junction",
       "title": "Kalamkari Print Khadi Silk Saree",
       "price": "499",
-      "original-price": "1,996",
+      "originalprice": "1,996",
       "discount": "(75% off)",
-      "offer-price": "499"
+      "offerprice": "499"
     },
     {
       "id": 8,
@@ -2076,9 +2076,9 @@
       "brand": "AWESOME",
       "title": "Embroidered Art Silk Saree with Contrast Border",
       "price": "1,860",
-      "original-price": "5,999",
+      "originalprice": "5,999",
       "discount": "(69% off)",
-      "offer-price": "1,680"
+      "offerprice": "1,680"
     },
     {
       "id": 9,
@@ -2087,9 +2087,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Cotton Dobby Flared Kurta with Lace Detailing",
       "price": "1,200",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(52% off)",
-      "offer-price": "875"
+      "offerprice": "875"
     },
     {
       "id": 10,
@@ -2098,9 +2098,9 @@
       "brand": "Gorgone",
       "title": "Mysore Silk Saree with Blouse Piece",
       "price": "358",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(82% off)",
-      "offer-price": "358"
+      "offerprice": "358"
     },
     {
       "id": 11,
@@ -2109,9 +2109,9 @@
       "brand": "AWESOME",
       "title": "Traditional Saree with Contrast Border",
       "price": "559",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(44% off)",
-      "offer-price": "559"
+      "offerprice": "559"
     },
     {
       "id": 12,
@@ -2120,9 +2120,9 @@
       "brand": "Marziyaa",
       "title": "Banarasi Traditional Saree",
       "price": "760",
-      "original-price": "1,899",
+      "originalprice": "1,899",
       "discount": "(60% off)",
-      "offer-price": "760"
+      "offerprice": "760"
     },
     {
       "id": 13,
@@ -2131,9 +2131,9 @@
       "brand": "AWESOME",
       "title": "Colourblock Traditional Saree",
       "price": "360",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(64% off)",
-      "offer-price": "360"
+      "offerprice": "360"
     },
     {
       "id": 14,
@@ -2142,9 +2142,9 @@
       "brand": "Gorgone",
       "title": "Embellished Straight Kurta",
       "price": "385",
-      "original-price": "2,141",
+      "originalprice": "2,141",
       "discount": "(82% off)",
-      "offer-price": "385"
+      "offerprice": "385"
     },
     {
       "id": 15,
@@ -2153,9 +2153,9 @@
       "brand": "AWESOME",
       "title": "Checked Traditional Saree with Contrast Border",
       "price": "625",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(75% off)",
-      "offer-price": "625"
+      "offerprice": "625"
     },
     {
       "id": 16,
@@ -2164,9 +2164,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Cotton Dobby Straight Kurta",
       "price": "1,100",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(56% off)",
-      "offer-price": "875"
+      "offerprice": "875"
     },
     {
       "id": 17,
@@ -2175,9 +2175,9 @@
       "brand": "Gorgone",
       "title": "Paisley Print Mysore Silk Saree",
       "price": "358",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(82% off)",
-      "offer-price": "358"
+      "offerprice": "358"
     },
     {
       "id": 18,
@@ -2186,9 +2186,9 @@
       "brand": "Marziyaa",
       "title": "Kanjeevaram Silk Saree with Woven Motifs",
       "price": "1,000",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(50% off)",
-      "offer-price": "860"
+      "offerprice": "860"
     },
     {
       "id": 19,
@@ -2197,9 +2197,9 @@
       "brand": "Buta Buti",
       "title": "Floral Print Cotton Saree",
       "price": "1,290",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(57% off)",
-      "offer-price": "1,020"
+      "offerprice": "1,020"
     },
     {
       "id": 20,
@@ -2208,9 +2208,9 @@
       "brand": "Indie Picks",
       "title": "Floral Print Cotton Straight Kurta",
       "price": "649",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(35% off)",
-      "offer-price": "500"
+      "offerprice": "500"
     },
     {
       "id": 21,
@@ -2219,9 +2219,9 @@
       "brand": "Marziyaa",
       "title": "Floral Woven Litchi Silk Saree",
       "price": "656",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(59% off)",
-      "offer-price": "656"
+      "offerprice": "656"
     },
     {
       "id": 22,
@@ -2230,9 +2230,9 @@
       "brand": "Gorgone",
       "title": "Paisley Print Mysore Silk Patola Saree",
       "price": "338",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(83% off)",
-      "offer-price": "338"
+      "offerprice": "338"
     },
     {
       "id": 23,
@@ -2241,9 +2241,9 @@
       "brand": "Indie Picks",
       "title": "Floral Print Flared Cotton Kurta",
       "price": "690",
-      "original-price": "1,499",
+      "originalprice": "1,499",
       "discount": "(54% off)",
-      "offer-price": "525"
+      "offerprice": "525"
     },
     {
       "id": 24,
@@ -2252,9 +2252,9 @@
       "brand": "Indie Picks",
       "title": "Printed Cotton Straight Kurta",
       "price": "480",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(52% off)",
-      "offer-price": "350"
+      "offerprice": "350"
     },
     {
       "id": 25,
@@ -2263,9 +2263,9 @@
       "brand": "Indethnic",
       "title": "Banarasi Saree with Tasseled Pallu",
       "price": "2,600",
-      "original-price": "6,499",
+      "originalprice": "6,499",
       "discount": "(60% off)",
-      "offer-price": "2,600"
+      "offerprice": "2,600"
     },
     {
       "id": 26,
@@ -2274,9 +2274,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Cotton Dobby Straight Kurta with Lace Detailing",
       "price": "1,225",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(51% off)",
-      "offer-price": "875"
+      "offerprice": "875"
     },
     {
       "id": 27,
@@ -2285,9 +2285,9 @@
       "brand": "Indie Picks",
       "title": "South Cotton Textured Saree",
       "price": "649",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(35% off)",
-      "offer-price": "500"
+      "offerprice": "500"
     },
     {
       "id": 28,
@@ -2296,9 +2296,9 @@
       "brand": "AWESOME",
       "title": "Embroidered Vichitra Silk Saree",
       "price": "1,800",
-      "original-price": "5,999",
+      "originalprice": "5,999",
       "discount": "(70% off)",
-      "offer-price": "1,680"
+      "offerprice": "1,680"
     },
     {
       "id": 29,
@@ -2307,9 +2307,9 @@
       "brand": "Indie Picks",
       "title": "Grishma Embroidered Straight Cotton Kaftan",
       "price": "1,290",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(57% off)",
-      "offer-price": "1,050"
+      "offerprice": "1,050"
     },
     {
       "id": 30,
@@ -2318,9 +2318,9 @@
       "brand": "Ethnic Junction",
       "title": "Floral Pattern Saree with Zari Border",
       "price": "1,199",
-      "original-price": "4,796",
+      "originalprice": "4,796",
       "discount": "(75% off)",
-      "offer-price": "1,199"
+      "offerprice": "1,199"
     },
     {
       "id": 31,
@@ -2329,9 +2329,9 @@
       "brand": "Ethnic Junction",
       "title": "Kalamkari Print Khadi Silk Saree with Blouse Piece",
       "price": "499",
-      "original-price": "1,996",
+      "originalprice": "1,996",
       "discount": "(75% off)",
-      "offer-price": "499"
+      "offerprice": "499"
     },
     {
       "id": 32,
@@ -2340,9 +2340,9 @@
       "brand": "Gorgone",
       "title": "Patola Print Mysore Silk Saree",
       "price": "338",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(83% off)",
-      "offer-price": "338"
+      "offerprice": "338"
     },
     {
       "id": 33,
@@ -2351,9 +2351,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Cotton Dobby Straight Kurta with Lace Detailing",
       "price": "1,350",
-      "original-price": "2,699",
+      "originalprice": "2,699",
       "discount": "(50% off)",
-      "offer-price": "1,215"
+      "offerprice": "1,215"
     },
     {
       "id": 34,
@@ -2362,9 +2362,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Straight Kurta",
       "price": "1,025",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(59% off)",
-      "offer-price": "875"
+      "offerprice": "875"
     },
     {
       "id": 35,
@@ -2373,9 +2373,9 @@
       "brand": "Marziyaa",
       "title": "Soft Silk Kanjeevaram Traditional Saree",
       "price": "799",
-      "original-price": "1,949",
+      "originalprice": "1,949",
       "discount": "(59% off)",
-      "offer-price": "799"
+      "offerprice": "799"
     },
     {
       "id": 36,
@@ -2384,9 +2384,9 @@
       "brand": "Indie Picks",
       "title": "Araa Hand Embroidered Chanderi Straight Kurta",
       "price": "1,080",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(64% off)",
-      "offer-price": "840"
+      "offerprice": "840"
     },
     {
       "id": 37,
@@ -2395,9 +2395,9 @@
       "brand": "Marziyaa",
       "title": "Zari Woven Traditional Saree",
       "price": "1,066",
-      "original-price": "2,599",
+      "originalprice": "2,599",
       "discount": "(59% off)",
-      "offer-price": "1,066"
+      "offerprice": "1,066"
     },
     {
       "id": 38,
@@ -2406,9 +2406,9 @@
       "brand": "Buta Buti",
       "title": "Block Print Saree with Contrast Border",
       "price": "1,410",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(53% off)",
-      "offer-price": "1,140"
+      "offerprice": "1,140"
     },
     {
       "id": 39,
@@ -2417,9 +2417,9 @@
       "brand": "Vishal Prints",
       "title": "Floral Print Satin Saree with Blouse Piece",
       "price": "4,435",
-      "original-price": "13,440",
+      "originalprice": "13,440",
       "discount": "(67% off)",
-      "offer-price": "4,032"
+      "offerprice": "4,032"
     },
     {
       "id": 40,
@@ -2428,9 +2428,9 @@
       "brand": "Indie Picks",
       "title": "Araa Foil Print Straight Kurta with Embroidered Yoke",
       "price": "1,155",
-      "original-price": "3,299",
+      "originalprice": "3,299",
       "discount": "(65% off)",
-      "offer-price": "924"
+      "offerprice": "924"
     },
     {
       "id": 41,
@@ -2439,9 +2439,9 @@
       "brand": "Marziyaa",
       "title": "Jacquard Border Handloom Saree with Blouse Piece",
       "price": "720",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(55% off)",
-      "offer-price": "720"
+      "offerprice": "720"
     },
     {
       "id": 42,
@@ -2450,9 +2450,9 @@
       "brand": "Buta Buti",
       "title": "Floral Print Cotton Saare",
       "price": "1,410",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(53% off)",
-      "offer-price": "1,140"
+      "offerprice": "1,140"
     },
     {
       "id": 43,
@@ -2461,9 +2461,9 @@
       "brand": "Vishal Prints",
       "title": "Floral Print Silk Saree with Blouse Piece",
       "price": "1,673",
-      "original-price": "5,070",
+      "originalprice": "5,070",
       "discount": "(67% off)",
-      "offer-price": "1,521"
+      "offerprice": "1,521"
     },
     {
       "id": 44,
@@ -2472,9 +2472,9 @@
       "brand": "Buta Buti",
       "title": "Floral Print Saree with Pom-Pom Border",
       "price": "1,290",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(57% off)",
-      "offer-price": "1,290"
+      "offerprice": "1,290"
     },
     {
       "id": 45,
@@ -2483,9 +2483,9 @@
       "brand": "Os",
       "title": "Striped Round Neck Straight Kurta",
       "price": "718",
-      "original-price": "1,995",
+      "originalprice": "1,995",
       "discount": "(64% off)",
-      "offer-price": "718"
+      "offerprice": "718"
     },
     {
       "id": 46,
@@ -2494,9 +2494,9 @@
       "brand": "Angoshobha",
       "title": "Handloom Saree",
       "price": "1,799",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(10% off)",
-      "offer-price": "1,539"
+      "offerprice": "1,539"
     },
     {
       "id": 47,
@@ -2505,9 +2505,9 @@
       "brand": "Marziyaa",
       "title": "Zari Woven Saree with Contrast Pallu",
       "price": "672",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(58% off)",
-      "offer-price": "672"
+      "offerprice": "672"
     },
     {
       "id": 48,
@@ -2516,9 +2516,9 @@
       "brand": "Buta Buti",
       "title": "Floral Print Saree with Border",
       "price": "1,290",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(57% off)",
-      "offer-price": "1,020"
+      "offerprice": "1,020"
     },
     {
       "id": 49,
@@ -2527,9 +2527,9 @@
       "brand": "Vishal Prints",
       "title": "Floral Print Silk Saree with Blouse Piece",
       "price": "1,673",
-      "original-price": "5,070",
+      "originalprice": "5,070",
       "discount": "(67% off)",
-      "offer-price": "1,521"
+      "offerprice": "1,521"
     },
     {
       "id": 50,
@@ -2538,9 +2538,9 @@
       "brand": "Buta Buti",
       "title": "Floral Print Cotton Saree",
       "price": "1,410",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(53% off)",
-      "offer-price": "1,140"
+      "offerprice": "1,140"
     },
     {
       "id": 51,
@@ -2549,9 +2549,9 @@
       "brand": "AWESOME",
       "title": "Saree with Contrast Border",
       "price": "1,200",
-      "original-price": "5,999",
+      "originalprice": "5,999",
       "discount": "(80% off)",
-      "offer-price": "1,200"
+      "offerprice": "1,200"
     },
     {
       "id": 52,
@@ -2560,9 +2560,9 @@
       "brand": "Gorgone",
       "title": "Bandhani Print Mysore Silk Saree",
       "price": "338",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(83% off)",
-      "offer-price": "338"
+      "offerprice": "338"
     },
     {
       "id": 53,
@@ -2571,9 +2571,9 @@
       "brand": "Indethnic",
       "title": "Floral Print Supernet Kota Saree",
       "price": "1,750",
-      "original-price": "4,999",
+      "originalprice": "4,999",
       "discount": "(65% off)",
-      "offer-price": "1,750"
+      "offerprice": "1,750"
     },
     {
       "id": 54,
@@ -2582,9 +2582,9 @@
       "brand": "Gorgone",
       "title": "Paisley Print Mysore Silk Saree",
       "price": "358",
-      "original-price": "1,991",
+      "originalprice": "1,991",
       "discount": "(82% off)",
-      "offer-price": "358"
+      "offerprice": "358"
     },
     {
       "id": 55,
@@ -2593,9 +2593,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Cotton Dobby Straight Kurta with Lace Panels",
       "price": "1,250",
-      "original-price": "2,499",
+      "originalprice": "2,499",
       "discount": "(50% off)",
-      "offer-price": "1,125"
+      "offerprice": "1,125"
     },
     {
       "id": 56,
@@ -2604,9 +2604,9 @@
       "brand": "Indie Picks",
       "title": "Printed Straight Kurta with Sequin Embellishments",
       "price": "490",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(51% off)",
-      "offer-price": "350"
+      "offerprice": "350"
     },
     {
       "id": 57,
@@ -2615,9 +2615,9 @@
       "brand": "Buta Buti",
       "title": "Floral Print Saree with Blouse Piece",
       "price": "1,290",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(57% off)",
-      "offer-price": "1,290"
+      "offerprice": "1,290"
     },
     {
       "id": 58,
@@ -2626,9 +2626,9 @@
       "brand": "AWESOME",
       "title": "Embroidered Silk Saree with Tassels",
       "price": "750",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(75% off)",
-      "offer-price": "750"
+      "offerprice": "750"
     },
     {
       "id": 59,
@@ -2637,9 +2637,9 @@
       "brand": "Indie Picks",
       "title": "Embroidered Lurex Dobby Straight Kurta",
       "price": "1,110",
-      "original-price": "2,999",
+      "originalprice": "2,999",
       "discount": "(63% off)",
-      "offer-price": "840"
+      "offerprice": "840"
     }
   ],
   "kitchen": [
@@ -2650,8 +2650,8 @@
       "brand": "Zevora",
       "title": "Bamboo Pepper Grinder",
       "price": "336",
-      "offer-price": "280",
-      "original-price": "999",
+      "offerprice": "280",
+      "originalprice": "999",
       "discount": "(66% off)"
     },
     {
@@ -2661,8 +2661,8 @@
       "brand": "QURA",
       "title": "Typographic Engraved Mango Wood Cutting Board",
       "price": "460",
-      "offer-price": "414",
-      "original-price": "2,299",
+      "offerprice": "414",
+      "originalprice": "2,299",
       "discount": "(80% off)"
     },
     {
@@ -2672,8 +2672,8 @@
       "brand": "Market 99",
       "title": "Sponge Bottle Cleaning Brush",
       "price": "299",
-      "offer-price": "299",
-      "original-price": "999",
+      "offerprice": "299",
+      "originalprice": "999",
       "discount": "(70% off)"
     },
     {
@@ -2683,8 +2683,8 @@
       "brand": "Zevora",
       "title": "Set of 4 Spatula Set",
       "price": "350",
-      "offer-price": "300",
-      "original-price": "999",
+      "offerprice": "300",
+      "originalprice": "999",
       "discount": "(65% off)"
     },
     {
@@ -2694,8 +2694,8 @@
       "brand": "Market 99",
       "title": "Set of 2  Salt & Pepper Jar",
       "price": "479",
-      "offer-price": "407",
-      "original-price": "1,099",
+      "offerprice": "407",
+      "originalprice": "1,099",
       "discount": "(56% off)"
     },
     {
@@ -2705,8 +2705,8 @@
       "brand": "Kuber Industries",
       "title": "Non-Sticky Appam Pan with Lid",
       "price": "430",
-      "offer-price": "430",
-      "original-price": "999",
+      "offerprice": "430",
+      "originalprice": "999",
       "discount": "(57% off)"
     },
     {
@@ -2716,8 +2716,8 @@
       "brand": "Home Centre",
       "title": "Set of 4 Windsor Silver Stainless Steel BBQ Skewer",
       "price": "280",
-      "offer-price": "280",
-      "original-price": "549",
+      "offerprice": "280",
+      "originalprice": "549",
       "discount": "(49% off)"
     },
     {
@@ -2727,8 +2727,8 @@
       "brand": "Home Centre",
       "title": "Corsica Stainless Steel Coconut Scraper",
       "price": "390",
-      "offer-price": "357",
-      "original-price": "549",
+      "offerprice": "357",
+      "originalprice": "549",
       "discount": "(29% off)"
     },
     {
@@ -2738,8 +2738,8 @@
       "brand": "Market 99",
       "title": "Pack of 3 Plastic Knife",
       "price": "244",
-      "offer-price": "244",
-      "original-price": "659",
+      "offerprice": "244",
+      "originalprice": "659",
       "discount": "(63% off)"
     },
     {
@@ -2749,8 +2749,8 @@
       "brand": "Market 99",
       "title": "Plastic Knife With Cover",
       "price": "241",
-      "offer-price": "241",
-      "original-price": "659",
+      "offerprice": "241",
+      "originalprice": "659",
       "discount": "(63% off)"
     },
     {
@@ -2760,8 +2760,8 @@
       "brand": "Home Centre",
       "title": "Stainless Steel Idli Maker with Stand",
       "price": "489",
-      "offer-price": "454",
-      "original-price": "699",
+      "offerprice": "454",
+      "originalprice": "699",
       "discount": "(30% off)"
     },
     {
@@ -2771,8 +2771,8 @@
       "brand": "QURA",
       "title": "Colorblock Marble & Mango Wood Round Chopping Board",
       "price": "480",
-      "offer-price": "432",
-      "original-price": "2,399",
+      "offerprice": "432",
+      "originalprice": "2,399",
       "discount": "(80% off)"
     },
     {
@@ -2782,8 +2782,8 @@
       "brand": "VAREESHA",
       "title": "Handi Ceramic Salt & Pepper Set",
       "price": "401",
-      "offer-price": "401",
-      "original-price": "699",
+      "offerprice": "401",
+      "originalprice": "699",
       "discount": "(43% off)"
     },
     {
@@ -2793,8 +2793,8 @@
       "brand": "Home Centre",
       "title": "Truffles Zagora Spoon",
       "price": "199",
-      "offer-price": "187",
-      "original-price": "249",
+      "offerprice": "187",
+      "originalprice": "249",
       "discount": "(20% off)"
     },
     {
@@ -2804,8 +2804,8 @@
       "brand": "Market 99",
       "title": "pack of 1 Silicone Spatula",
       "price": "259",
-      "offer-price": "259",
-      "original-price": "699",
+      "offerprice": "259",
+      "originalprice": "699",
       "discount": "(63% off)"
     },
     {
@@ -2815,8 +2815,8 @@
       "brand": "QURA",
       "title": "Colorblock Stone & Acacia Wood Chopping Board",
       "price": "437",
-      "offer-price": "393",
-      "original-price": "2,299",
+      "offerprice": "393",
+      "originalprice": "2,299",
       "discount": "(81% off)"
     },
     {
@@ -2826,8 +2826,8 @@
       "brand": "MUJI",
       "title": "Striped Washing Board",
       "price": "343",
-      "offer-price": "284",
-      "original-price": "490",
+      "offerprice": "284",
+      "originalprice": "490",
       "discount": "(30% off)"
     },
     {
@@ -2837,8 +2837,8 @@
       "brand": "Market 99",
       "title": "Pack of 1 Ice Cream Mould",
       "price": "376",
-      "offer-price": "376",
-      "original-price": "799",
+      "offerprice": "376",
+      "originalprice": "799",
       "discount": "(53% off)"
     },
     {
@@ -2848,8 +2848,8 @@
       "brand": "Market 99",
       "title": "Pack of 1 Rice Strainer",
       "price": "493",
-      "offer-price": "493",
-      "original-price": "699",
+      "offerprice": "493",
+      "originalprice": "699",
       "discount": "(30% off)"
     },
     {
@@ -2859,8 +2859,8 @@
       "brand": "Home Centre",
       "title": "Stainless Steel Basting Brush",
       "price": "329",
-      "offer-price": "329",
-      "original-price": "599",
+      "offerprice": "329",
+      "originalprice": "599",
       "discount": "(45% off)"
     },
     {
@@ -2870,8 +2870,8 @@
       "brand": "Market 99",
       "title": "Metallic Round Basket",
       "price": "426",
-      "offer-price": "426",
-      "original-price": "999",
+      "offerprice": "426",
+      "originalprice": "999",
       "discount": "(57% off)"
     },
     {
@@ -2881,8 +2881,8 @@
       "brand": "QURA",
       "title": "Minimalistic Raw Acacia Wood Chopping Board",
       "price": "475",
-      "offer-price": "428",
-      "original-price": "2,499",
+      "offerprice": "428",
+      "originalprice": "2,499",
       "discount": "(81% off)"
     },
     {
@@ -2892,8 +2892,8 @@
       "brand": "QURA",
       "title": "Hand Etched Made with Love Cutting Board with Leather Strap",
       "price": "361",
-      "offer-price": "325",
-      "original-price": "1,899",
+      "offerprice": "325",
+      "originalprice": "1,899",
       "discount": "(81% off)"
     },
     {
@@ -2903,8 +2903,8 @@
       "brand": "Market 99",
       "title": "Cleaning Dish Brush",
       "price": "336",
-      "offer-price": "336",
-      "original-price": "799",
+      "offerprice": "336",
+      "originalprice": "799",
       "discount": "(58% off)"
     },
     {
@@ -2914,8 +2914,8 @@
       "brand": "QURA",
       "title": "Set of Engraved Mango Wood Drink Tags",
       "price": "437",
-      "offer-price": "393",
-      "original-price": "2,299",
+      "offerprice": "393",
+      "originalprice": "2,299",
       "discount": "(81% off)"
     },
     {
@@ -2925,8 +2925,8 @@
       "brand": "QURA",
       "title": "Hand Etched Cutting Board with Leather Strap",
       "price": "361",
-      "offer-price": "325",
-      "original-price": "1,899",
+      "offerprice": "325",
+      "originalprice": "1,899",
       "discount": "(81% off)"
     },
     {
@@ -2936,8 +2936,8 @@
       "brand": "Kuber Industries",
       "title": "Pack of 3 Strainer Colanders with Long Handle",
       "price": "430",
-      "offer-price": "430",
-      "original-price": "999",
+      "offerprice": "430",
+      "originalprice": "999",
       "discount": "(57% off)"
     },
     {
@@ -2947,8 +2947,8 @@
       "brand": "QURA",
       "title": "Minimal Natural Textured Acacia Wood Chopping Board",
       "price": "342",
-      "offer-price": "308",
-      "original-price": "1,799",
+      "offerprice": "308",
+      "originalprice": "1,799",
       "discount": "(81% off)"
     },
     {
@@ -2958,8 +2958,8 @@
       "brand": "QURA",
       "title": "Hand-Cut Mango Wood & Resin Whale Chopping Board",
       "price": "399",
-      "offer-price": "359",
-      "original-price": "2,099",
+      "offerprice": "359",
+      "originalprice": "2,099",
       "discount": "(81% off)"
     },
     {
@@ -2969,9 +2969,9 @@
       "brand": "Home Sizzler",
       "title": "Blackout Eyelet Curtain",
       "price": "412",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(48% off)",
-      "offer-price": "280"
+      "offerprice": "280"
     },
     {
       "id": 31,
@@ -2980,9 +2980,9 @@
       "brand": "Good Homes",
       "title": "Geometric Print Double Size Bedsheet",
       "price": "330",
-      "original-price": "1,099",
+      "originalprice": "1,099",
       "discount": "(70% off)",
-      "offer-price": "308"
+      "offerprice": "308"
     },
     {
       "id": 32,
@@ -2991,9 +2991,9 @@
       "brand": "STELLAR HOME",
       "title": "Cotton Hand Towel 24",
       "price": "115",
-      "original-price": "229",
+      "originalprice": "229",
       "discount": "(50% off)",
-      "offer-price": "103"
+      "offerprice": "103"
     },
     {
       "id": 33,
@@ -3002,9 +3002,9 @@
       "brand": "AAZEEM",
       "title": "Geometric Pattern Anti Skid Door Mat",
       "price": "225",
-      "original-price": "499",
+      "originalprice": "499",
       "discount": "(55% off)",
-      "offer-price": "225"
+      "offerprice": "225"
     },
     {
       "id": 34,
@@ -3013,9 +3013,9 @@
       "brand": "HOMEZ SPARROW",
       "title": "Striped Single-Size Bedsheet with Pillow Cover",
       "price": "165",
-      "original-price": "1,500",
+      "originalprice": "1,500",
       "discount": "(89% off)",
-      "offer-price": "165"
+      "offerprice": "165"
     },
     {
       "id": 35,
@@ -3024,9 +3024,9 @@
       "brand": "STELLAR HOME",
       "title": "Cotton Hand Towel 24",
       "price": "115",
-      "original-price": "229",
+      "originalprice": "229",
       "discount": "(50% off)",
-      "offer-price": "103"
+      "offerprice": "103"
     },
     {
       "id": 36,
@@ -3035,9 +3035,9 @@
       "brand": "HOMEZ SPARROW",
       "title": "Striped Handmade Single Besheet Set",
       "price": "165",
-      "original-price": "1,500",
+      "originalprice": "1,500",
       "discount": "(89% off)",
-      "offer-price": "165"
+      "offerprice": "165"
     },
     {
       "id": 37,
@@ -3046,9 +3046,9 @@
       "brand": "Homefab India",
       "title": "120 TC Floral Print Double Bedsheet with Pillow Covers",
       "price": "380",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(62% off)",
-      "offer-price": "280"
+      "offerprice": "280"
     },
     {
       "id": 38,
@@ -3057,9 +3057,9 @@
       "brand": "Aawiclo Home",
       "title": "Pack of 5 Wind Chimes",
       "price": "206",
-      "original-price": "480",
+      "originalprice": "480",
       "discount": "(57% off)",
-      "offer-price": "206"
+      "offerprice": "206"
     },
     {
       "id": 39,
@@ -3068,9 +3068,9 @@
       "brand": "Mafatlal",
       "title": "Floral Print Double Size Bedsheet with 2 Pillow Covers",
       "price": "493",
-      "original-price": "1,699",
+      "originalprice": "1,699",
       "discount": "(71% off)",
-      "offer-price": "476"
+      "offerprice": "476"
     },
     {
       "id": 40,
@@ -3079,9 +3079,9 @@
       "brand": "Home Sizzler",
       "title": "Set of 2 Tropical Print Door Semi-Sheer Door Curtains",
       "price": "372",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(53% off)",
-      "offer-price": "372"
+      "offerprice": "372"
     },
     {
       "id": 41,
@@ -3090,9 +3090,9 @@
       "brand": "UniqChoice",
       "title": "Geometric Print Double Bedsheet with Pillow Covers",
       "price": "425",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(73% off)",
-      "offer-price": "425"
+      "offerprice": "425"
     },
     {
       "id": 42,
@@ -3101,9 +3101,9 @@
       "brand": "STELLAR HOME",
       "title": "Cotton Hand Towel 24",
       "price": "115",
-      "original-price": "229",
+      "originalprice": "229",
       "discount": "(50% off)",
-      "offer-price": "103"
+      "offerprice": "103"
     },
     {
       "id": 43,
@@ -3112,9 +3112,9 @@
       "brand": "UniqChoice",
       "title": "Polka-dot Cotton Jaipuri Traditonal Double BedSheet With 2 Pillow Cover",
       "price": "425",
-      "original-price": "1,599",
+      "originalprice": "1,599",
       "discount": "(73% off)",
-      "offer-price": "425"
+      "offerprice": "425"
     },
     {
       "id": 44,
@@ -3123,9 +3123,9 @@
       "brand": "Home Sizzler",
       "title": "Textured Print Blackout Door Curtain",
       "price": "404",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(49% off)",
-      "offer-price": "404"
+      "offerprice": "404"
     },
     {
       "id": 45,
@@ -3134,9 +3134,9 @@
       "brand": "Homefab India",
       "title": "Geometric Print Double Bedsheet with Pillow Covers",
       "price": "340",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(66% off)",
-      "offer-price": "340"
+      "offerprice": "340"
     },
     {
       "id": 46,
@@ -3145,9 +3145,9 @@
       "brand": "Market 99",
       "title": "Butter Dish with Lid",
       "price": "359",
-      "original-price": "1,329",
+      "originalprice": "1,329",
       "discount": "(73% off)",
-      "offer-price": "359"
+      "offerprice": "359"
     },
     {
       "id": 47,
@@ -3156,9 +3156,9 @@
       "brand": "RANGOLI",
       "title": "Cotton Stripes Hair Towel",
       "price": "202",
-      "original-price": "399",
+      "originalprice": "399",
       "discount": "(49% off)",
-      "offer-price": "202"
+      "offerprice": "202"
     },
     {
       "id": 48,
@@ -3167,9 +3167,9 @@
       "brand": "HOMEZ SPARROW",
       "title": "Striped King Size Bedsheet with Pillow Covers",
       "price": "420",
-      "original-price": "3,000",
+      "originalprice": "3,000",
       "discount": "(86% off)",
-      "offer-price": "420"
+      "offerprice": "420"
     },
     {
       "id": 49,
@@ -3178,9 +3178,9 @@
       "brand": "Home Expressions USA",
       "title": "Set of 2 Cushion Covers with Woven Motifs 16",
       "price": "315",
-      "original-price": "899",
+      "originalprice": "899",
       "discount": "(65% off)",
-      "offer-price": "270"
+      "offerprice": "270"
     },
     {
       "id": 50,
@@ -3189,9 +3189,9 @@
       "brand": "Homefab India",
       "title": "140 TC Double Bedsheet with Pillow Covers",
       "price": "340",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(66% off)",
-      "offer-price": "340"
+      "offerprice": "340"
     },
     {
       "id": 51,
@@ -3200,9 +3200,9 @@
       "brand": "Home Sizzler",
       "title": "Garden Panel Abstract Window Curtains",
       "price": "344",
-      "original-price": "799",
+      "originalprice": "799",
       "discount": "(57% off)",
-      "offer-price": "344"
+      "offerprice": "344"
     },
     {
       "id": 52,
@@ -3211,9 +3211,9 @@
       "brand": "Homefab India",
       "title": "Pack of 2 Grommet Window Curtains",
       "price": "410",
-      "original-price": "999",
+      "originalprice": "999",
       "discount": "(59% off)",
-      "offer-price": "410"
+      "offerprice": "410"
     },
     {
       "id": 53,
@@ -3222,9 +3222,9 @@
       "brand": "HOMEZ SPARROW",
       "title": "210 TC Striped King Bedsheet with  Pillow covers",
       "price": "440",
-      "original-price": "1,999",
+      "originalprice": "1,999",
       "discount": "(78% off)",
-      "offer-price": "440"
+      "offerprice": "440"
     },
     {
       "id": 54,
@@ -3233,9 +3233,9 @@
       "brand": "Homefab India",
       "title": "140 TC Printed Single Bedsheet with Pillow Cover",
       "price": "227",
-      "original-price": "599",
+      "originalprice": "599",
       "discount": "(62% off)",
-      "offer-price": "227"
+      "offerprice": "227"
     },
     {
       "id": 55,
@@ -3244,9 +3244,9 @@
       "brand": "HOMEZ SPARROW",
       "title": "150 TC Double Bedsheet with 2 Pillow Covers",
       "price": "420",
-      "original-price": "3,000",
+      "originalprice": "3,000",
       "discount": "(86% off)",
-      "offer-price": "420"
+      "offerprice": "420"
     }
   ]
 }
