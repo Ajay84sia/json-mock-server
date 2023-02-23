@@ -70,6 +70,16 @@
       "borrowed": false
     }
   ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Zip-Front Tracksuit with Placement Logo",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221020/BM2v/63512952f997ddfdbd367050/nike_green_zip-front_tracksuit_with_placement_logo.jpg",
+      "brand": "NIKE",
+      "price": 3380,
+      "quantity": 1
+    }
+  ],
 
   "mens": [
     {
