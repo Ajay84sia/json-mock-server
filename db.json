@@ -79,7 +79,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221020/BM2v/63512952f997ddfdbd367050/nike_green_zip-front_tracksuit_with_placement_logo.jpg",
       "brand": "NIKE",
       "title": "Zip-Front Tracksuit with Placement Logo",
-      "price": "3,380",
+      "price": 3380,
       "originalprice": "4,695",
       "discount": "(28% off)",
       "offerprice": "3,193"
@@ -91,7 +91,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230204/5loh/63dd9b79aeb269c6510f5371/ardeur_black_knit_shorts_with_drawstring_waist.jpg",
       "brand": "Ardeur",
       "title": "Knit Shorts with Drawstring Waist",
-      "price": "240",
+      "price": 240,
       "originalprice": "1,199",
       "discount": "(80% off)",
       "offerprice": "240"
@@ -103,7 +103,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230207/ZFJF/63e28845aeb269c65116e969/louis_philippe_olive_mid-rise_light-wash_slim_fit_jeans.jpg",
       "brand": "LOUIS PHILIPPE",
       "title": "Mid-Rise Light-Wash Slim Fit Jeans",
-      "price": "1,946",
+      "price": 1946,
       "originalprice": "3,299",
       "discount": "(41% off)",
       "offerprice": "1,421"
@@ -115,7 +115,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221209/kEw6/63925372aeb269659cdf6de1/gabon_black_cargo_pants_with_insert_pockets.jpg",
       "brand": "GABON",
       "title": "Cargo Pants with Insert Pockets",
-      "price": "1,769",
+      "price": 1769,
       "originalprice": "2,999",
       "discount": "(41% off)",
       "offerprice": "1,410"
@@ -127,7 +127,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221216/TSIP/639c8e4aaeb269659cef3e33/the_bear_house_black_checked_slim_fit_shirt_with_patch_pocket.jpg",
       "brand": "THE BEAR HOUSE",
       "title": "Checked Slim Fit Shirt with Patch Pocket",
-      "price": "1,497",
+      "price": 1497,
       "originalprice": "2,495",
       "discount": "(40% off)",
       "offerprice": "913"
@@ -139,7 +139,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230123/Culm/63ce9a09f997dd708e1ac9da/altair_olive_green_checked_slim_fit_shirt.jpg",
       "brand": "ALTAIR",
       "title": "Checked Slim Fit Shirt",
-      "price": "479",
+      "price": 479,
       "originalprice": "799",
       "discount": "(40% off)",
       "offerprice": "400"
@@ -151,7 +151,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221123/1LgZ/637d4314f997ddfdbd908b6c/the_bear_house_green_slim_fit_polo_t-shirt_with_short_sleeves.jpg",
       "brand": "THE BEAR HOUSE",
       "title": "Slim Fit Polo T-Shirt with Short Sleeves",
-      "price": "1,123",
+      "price": 1123,
       "originalprice": "2,495",
       "discount": "(55% off)",
       "offerprice": "685"
@@ -163,7 +163,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230110/e43Y/63bd8c8ef997dd708efc358d/the_indian_garage_co_blue_checked_shirt_with_patch_pocket.jpg",
       "brand": "The Indian Garage Co",
       "title": "Checked Shirt with Patch Pocket",
-      "price": "604",
+      "price": 604,
       "originalprice": "1,949",
       "discount": "(69% off)",
       "offerprice": "604"
@@ -175,7 +175,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230201/dAVM/63da88deaeb269c65109ec9b/nike_black_striped_track_pants_with_placement_logo.jpg",
       "brand": "NIKE",
       "title": "Striped Track Pants with Placement Logo",
-      "price": "4,396",
+      "price": 4396,
       "originalprice": "5,495",
       "discount": "(20% off)",
       "offerprice": "4,011"
@@ -187,7 +187,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221103/gwvH/6363a03cf997ddfdbd540875/breakpoint_blue_mid-wash_skinny_fit_jeans.jpg",
       "brand": "BREAKPOINT",
       "title": "Mid-Wash Skinny Fit Jeans",
-      "price": "599",
+      "price": 599,
       "originalprice": "999",
       "discount": "(40% off)",
       "offerprice": "500"
@@ -199,7 +199,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221212/xSXY/639741b3aeb269659ce2d8f8/wrangler_blue_lightly_washed_straight_jeans.jpg",
       "brand": "WRANGLER",
       "title": "Lightly Washed Straight Jeans",
-      "price": "1,400",
+      "price": 1400,
       "originalprice": "2,799",
       "discount": "(50% off)",
       "offerprice": "1,022"
@@ -211,7 +211,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230102/QwdJ/63b2ce76f997ddfdbd0915d4/dzire_gold-toned_floral_print_brocade_nehru_jacket.jpg",
       "brand": "DZIRE",
       "title": "Floral Print Brocade Nehru jacket",
-      "price": "1,310",
+      "price": 1310,
       "originalprice": "1,795",
       "discount": "(27% off)",
       "offerprice": "1,077"
@@ -223,7 +223,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230113/kA12/63c17376f997dd708e0715c9/performax_white_logo_print_court_polo_t-shirt.jpg",
       "brand": "PERFORMAX",
       "title": "Logo Print Court Polo T-Shirt",
-      "price": "629",
+      "price": 629,
       "originalprice": "699",
       "discount": "(10% off)",
       "offerprice": "629"
@@ -235,7 +235,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221208/oDSr/63919135aeb269659cddc132/allen_solly_navy_blue_slim_fit_flat-front_trousers.jpg",
       "brand": "ALLEN SOLLY",
       "title": "Slim Fit Flat-Front Trousers",
-      "price": "1,617",
+      "price": 1617,
       "originalprice": "3,299",
       "discount": "(51% off)",
       "offerprice": "1,180"
@@ -247,7 +247,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221205/qwRp/638e31a5f997ddfdbdbb351d/levis_blue_slim_fit_shirt_with_patch_pocket.jpg",
       "brand": "LEVIS",
       "title": "Slim Fit Shirt with Patch Pocket",
-      "price": "1,474",
+      "price": 1474,
       "originalprice": "2,499",
       "discount": "(41% off)",
       "offerprice": "1,474"
@@ -259,7 +259,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221122/7UFT/637cf646aeb269659ca71673/ketch_purple_floral_print_slim_fit_shirt.jpg",
       "brand": "Ketch",
       "title": "Floral Print Slim Fit Shirt",
-      "price": "437",
+      "price": 437,
       "originalprice": "1,249",
       "discount": "(65% off)",
       "offerprice": "437"
@@ -271,7 +271,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220824/l90J/63053376f997dd394c16d992/superdry_navy_blue_code_sl_applique_sweat_shorts.jpg",
       "brand": "SUPERDRY",
       "title": "Code Sl Applique Sweat Shorts",
-      "price": "2,859",
+      "price": 2859,
       "originalprice": "5,499",
       "discount": "(48% off)",
       "offerprice": "2,310"
@@ -283,7 +283,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221208/Agoy/639194f9f997ddfdbdc777d3/louis_philippe_grey_heavily_washed_low-rise_slim_fit_jeans.jpg",
       "brand": "LOUIS PHILIPPE",
       "title": "Heavily Washed Low-Rise Slim Fit Jeans",
-      "price": "1,946",
+      "price": 1946,
       "originalprice": "3,299",
       "discount": "(41% off)",
       "offerprice": "1,421"
@@ -295,7 +295,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230113/KFbr/63c17458aeb269c651dfea61/spykar_navy_blue_lightly_washed_skinny_fit_jeans.jpg",
       "brand": "SPYKAR",
       "title": "Lightly Washed Skinny Fit Jeans",
-      "price": "2,910",
+      "price": 2910,
       "originalprice": "4,099",
       "discount": "(29% off)",
       "offerprice": "2,828"
@@ -307,7 +307,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221228/NFU0/63ab5399f997ddfdbdfd6551/allen_solly_blue_cotton_shirt_with_patch_pocket.jpg",
       "brand": "ALLEN SOLLY",
       "title": "Cotton Shirt with Patch Pocket",
-      "price": "1,179",
+      "price": 1179,
       "originalprice": "1,999",
       "discount": "(41% off)",
       "offerprice": "861"
@@ -319,7 +319,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221229/lHEF/63ad3578f997ddfdbd00d6c1/levis_indigo_512_mid-wash_slim_tapered_fit_jeans.jpg",
       "brand": "LEVIS",
       "title": "512 Mid-Wash Slim Tapered Fit Jeans",
-      "price": "1,884",
+      "price": 1884,
       "originalprice": "2,899",
       "discount": "(35% off)",
       "offerprice": "1,884"
@@ -331,7 +331,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221121/uiLE/637b9115aeb269659ca0c42d/ketch_green_zip-front_puffer_jacket_with_slip_pockets.jpg",
       "brand": "Ketch",
       "title": "Zip-Front Puffer Jacket with Slip Pockets",
-      "price": "700",
+      "price": 700,
       "originalprice": "2,799",
       "discount": "(75% off)",
       "offerprice": "700"
@@ -343,7 +343,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221220/QqWa/63a1d2acf997ddfdbde4adc2/british_club_blue_printed_slim_fit_shirt.jpg",
       "brand": "British Club",
       "title": "Printed Slim Fit Shirt",
-      "price": "741",
+      "price": 741,
       "originalprice": "1,949",
       "discount": "(62% off)",
       "offerprice": "663"
@@ -355,7 +355,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230104/RiOM/63b53e7baeb269659c232577/bushirt_pink_spread_collar_shirt_with_flap_pockets.jpg",
       "brand": "Bushirt",
       "title": "Spread Collar Shirt with Flap Pockets",
-      "price": "1,200",
+      "price": 1200,
       "originalprice": "2,999",
       "discount": "(60% off)",
       "offerprice": "1,020"
@@ -367,7 +367,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221230/uyWN/63aefefdaeb269659c199ca3/marks_%26_spencer_beige_checked_shirt_with_button-down_collar.jpg",
       "brand": "Marks & Spencer",
       "title": "Checked Shirt with Button-Down Collar",
-      "price": "2,099",
+      "price": 2099,
       "originalprice": "2,999",
       "discount": "(30% off)",
       "offerprice": "1,364"
@@ -379,7 +379,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230130/bNZh/63d7e993aeb269c651029cd8/pepe_jeans_black_mid-wash_straight_fit_jeans.jpg",
       "brand": "Pepe Jeans",
       "title": "Mid-Wash Straight Fit Jeans",
-      "price": "2,013",
+      "price": 2013,
       "originalprice": "3,799",
       "discount": "(47% off)",
       "offerprice": "1,786"
@@ -391,7 +391,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221229/dQOy/63ad356ef997ddfdbd00d587/nike_blue_obsidian_game_straight_fit_track_pants.jpg",
       "brand": "NIKE",
       "title": "Obsidian Game Straight Fit Track Pants",
-      "price": "1,971",
+      "price": 1971,
       "originalprice": "2,495",
       "discount": "(21% off)",
       "offerprice": "1,821"
@@ -403,7 +403,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230110/YyKY/63bd8ba0aeb269c651d56248/the_indian_garage_co_blue_mid-rise_slim_fit_jeans.jpg",
       "brand": "The Indian Garage Co",
       "title": "Mid-Rise Slim Fit Jeans",
-      "price": "805",
+      "price": 805,
       "originalprice": "2,299",
       "discount": "(65% off)",
       "offerprice": "736"
@@ -415,7 +415,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230114/kyEp/63c1bfb0aeb269c651e0087b/lee_black_mid-wash_mid-rise_jeans.jpg",
       "brand": "Lee",
       "title": "Mid-Wash Mid-Rise Jeans",
-      "price": "1,400",
+      "price": 1400,
       "originalprice": "2,799",
       "discount": "(50% off)",
       "offerprice": "1,022"
@@ -427,7 +427,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221209/im7t/639359c0f997ddfdbdca8721/adidas_navy_blue_regular_fit_straight_fit_track_pants.jpg",
       "brand": "ADIDAS",
       "title": "Regular Fit Straight Fit Track Pants",
-      "price": "2,267",
+      "price": 2267,
       "originalprice": "2,799",
       "discount": "(19% off)",
       "offerprice": "2,183"
@@ -439,7 +439,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230216/cB7X/63ed39f9f997dde6f4aaeaba/bewakoof_black_graphic_print_crew-neck_t-shirt.jpg",
       "brand": "BEWAKOOF",
       "title": "Graphic Print Crew-Neck T-Shirt",
-      "price": "660",
+      "price": 660,
       "originalprice": "1,499",
       "discount": "(56% off)",
       "offerprice": "403"
@@ -451,7 +451,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230207/A4Tk/63e20f95f997dd708e3ef329/okane_fern_green_zip-front_jacket_with_track_pants.jpg",
       "brand": "OKANE",
       "title": "Zip-Front Jacket with Track Pants",
-      "price": "1,768",
+      "price": 1768,
       "originalprice": "2,899",
       "discount": "(39% off)",
       "offerprice": "1,078"
@@ -463,7 +463,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221220/mAT5/63a0d753f997ddfdbde0e592/even_blue_cotton_kurta_with_band_collar_.jpg",
       "brand": "Even",
       "title": "Cotton Kurta with Band Collar",
-      "price": "778",
+      "price": 778,
       "originalprice": "1,945",
       "discount": "(60% off)",
       "offerprice": "506"
@@ -475,7 +475,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230112/cGev/63c0228faeb269c651dbbbd5/showoff_navy_blue_cotton_shirt_with_spread_collar.jpg",
       "brand": "SHOWOFF",
       "title": "Cotton Shirt with Spread Collar",
-      "price": "1,061",
+      "price": 1061,
       "originalprice": "3,120",
       "discount": "(66% off)",
       "offerprice": "811"
@@ -487,7 +487,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/hc8/hf9/11914308223006/campus_sutra_black_hooded_quilted_jacket.jpg",
       "brand": "Campus Sutra",
       "title": "Hooded Quilted Jacket",
-      "price": "2,274",
+      "price": 2274,
       "offerprice": "1,387",
       "originalprice": "3,499",
       "discount": "(35% off)"
@@ -499,7 +499,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220905/gp2B/631621b4aeb269dbb36c8f71/performax_teal_colourblock_zip-front_track_jacket.jpg",
       "brand": "PERFORMAX",
       "title": "Colourblock Zip-Front Track Jacket",
-      "price": "779",
+      "price": 779,
       "offerprice": "650",
       "originalprice": "1,299",
       "discount": "(40% off)"
@@ -511,7 +511,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220927/3DXq/63331ff6aeb269dbb3aaaf89/teamspirit_off-white_zip-front_puffer_jacket_with_zipper_pockets.jpg",
       "brand": "Teamspirit",
       "title": "Zip-Front Puffer Jacket with Zipper Pockets",
-      "price": "960",
+      "price": 960,
       "offerprice": "680",
       "originalprice": "1,999",
       "discount": "(52% off)"
@@ -523,7 +523,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220628/WquY/62bb1e94aeb26921af4d62d2/performax_black_zip-front_track_jacket_with_insert_pockets.jpg",
       "brand": "PERFORMAX",
       "title": "Zip-Front Track Jacket with Insert Pockets",
-      "price": "490",
+      "price": 490,
       "offerprice": "400",
       "originalprice": "999",
       "discount": "(51% off)"
@@ -535,7 +535,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220616/BcjM/62ab5c87aeb26921af2cf992/performax_maroon_zip-front_track_jacket_with_insert_pockets.jpg",
       "brand": "PERFORMAX",
       "title": "Zip-Front Track Jacket with Insert Pockets",
-      "price": "490",
+      "price": 490,
       "offerprice": "400",
       "originalprice": "999",
       "discount": "(51% off)"
@@ -547,7 +547,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210805/szLx/610ae723f997ddce8994e350/voxati_maroon__jacket_with_insert_pockets.jpg",
       "brand": "VOXATI",
       "title": "Jacket with Insert Pockets",
-      "price": "858",
+      "price": 858,
       "offerprice": "858",
       "originalprice": "2,599",
       "discount": "(67% off)"
@@ -559,7 +559,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221123/zUpf/637d4106aeb269659ca84de2/campus_sutra_brown_zip-front_bomber_jacket.jpg",
       "brand": "Campus Sutra",
       "title": "Zip-Front Bomber Jacket",
-      "price": "2,274",
+      "price": 2274,
       "offerprice": "1,387",
       "originalprice": "3,499",
       "discount": "(35% off)"
@@ -571,7 +571,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220905/82vB/63162b1faeb269dbb36cbfb8/performax_jet_black_%26_blue_colourblock_zip-front_track_jacket.jpg",
       "brand": "PERFORMAX",
       "title": "Colourblock Zip-Front Track Jacket",
-      "price": "779",
+      "price": 779,
       "offerprice": "650",
       "originalprice": "1,299",
       "discount": "(40% off)"
@@ -583,7 +583,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220927/7pzk/63332773f997dd1f8d2083a6/teamspirit_black_zip-front_puffer_jacket.jpg",
       "brand": "Teamspirit",
       "title": "Zip-Front Puffer Jacket",
-      "price": "960",
+      "price": 960,
       "offerprice": "680",
       "originalprice": "1,999",
       "discount": "(52% off)"
@@ -597,7 +597,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220708/Ku84/62c748acaeb26921af6a67af/janasya_yellow_floral_print_fit_and_flare_dress.jpg",
       "brand": "Janasya",
       "title": "Floral Print Fit and Flare Dress",
-      "price": "995",
+      "price": 995,
       "originalprice": "2,689",
       "discount": "(63% off)",
       "offerprice": "699"
@@ -609,7 +609,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/hbd/h14/16496513155102/teamspirit_black_track_pants_with_contrast_side_taping.jpg",
       "brand": "Teamspirit",
       "title": "Track Pants with Contrast Side Taping",
-      "price": "254",
+      "price": 254,
       "originalprice": "499",
       "discount": "(49% off)",
       "offerprice": "250"
@@ -621,7 +621,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220820/xpCY/63004ed0aeb26917618b7440/tulsattva_cream_floral_print_fit_%26_flare_dress_with_waist_tie-up.jpg",
       "brand": "Tulsattva",
       "title": "Floral Print Fit & Flare Dress with Waist Tie-Up",
-      "price": "876",
+      "price": 876,
       "originalprice": "1,990",
       "discount": "(56% off)",
       "offerprice": "534"
