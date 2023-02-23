@@ -633,7 +633,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211013/DMdl/61667cc8f997ddf8f1ce86dd/janasya_blue_floral_print_fit_%26_flare_dress.jpg",
       "brand": "Janasya",
       "title": "Floral Print Fit & Flare Dress",
-      "price": "850",
+      "price": 850,
       "originalprice": "2,298",
       "discount": "(63% off)",
       "offerprice": "597"
@@ -645,7 +645,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220328/gkTB/6241d1dcaeb26921affae789/janasya_orange_woven_tiered_dress_with_waist_tie-up.jpg",
       "brand": "Janasya",
       "title": "Woven Tiered Dress with Waist Tie-Up",
-      "price": "760",
+      "price": 760,
       "originalprice": "1,899",
       "discount": "(60% off)",
       "offerprice": "494"
@@ -657,7 +657,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210403/PrCa/60687e8aaeb269a9e3334366/dolce_crudo_black_high-rise_skinny_jeans.jpg",
       "brand": "Dolce Crudo",
       "title": "High-Rise Skinny Jeans",
-      "price": "960",
+      "price": 960,
       "originalprice": "2,399",
       "discount": "(60% off)",
       "offerprice": "624"
@@ -669,7 +669,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220820/elcz/63004f9df997dd394c0a831f/tulsattva_cream_floral_print_fit_%26_flare_dress_with_waist_tie-up.jpg",
       "brand": "Tulsattva",
       "title": "Floral Print Fit & Flare Dress with Waist Tie-Up",
-      "price": "876",
+      "price": 876,
       "originalprice": "1,990",
       "discount": "(56% off)",
       "offerprice": "534"
@@ -681,7 +681,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220623/uY5F/62b4a500f997dd03e29a41d6/lee_cooper_green_brand_print_crew-neck_t-shirt.jpg",
       "brand": "Lee Cooper",
       "title": "Brand Print Crew-Neck T-shirt",
-      "price": "343",
+      "price": 343,
       "originalprice": "699",
       "discount": "(51% off)",
       "offerprice": "280"
@@ -693,7 +693,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221119/VPC0/6377f256f997ddfdbd85a52e/kibo_black_animal_print_high-neck_top.jpg",
       "brand": "Kibo",
       "title": "Animal Print High-Neck Top",
-      "price": "684",
+      "price": 684,
       "originalprice": "1,899",
       "discount": "(64% off)",
       "offerprice": "494"
@@ -705,7 +705,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221019/4ikf/634fd570aeb269659c4d8a57/dnmx_blue_mid-wash_skinny_fit_jeans.jpg",
       "brand": "DNMX",
       "title": "Mid-Wash Skinny Fit Jeans",
-      "price": "799",
+      "price": 799,
       "originalprice": "999",
       "discount": "(20% off)",
       "offerprice": "799"
@@ -717,7 +717,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220729/QPsz/62e3eb06aeb26921afabd7e4/kotty_green_high-rise_straight_fit_pants.jpg",
       "brand": "KOTTY",
       "title": "High-Rise Straight Fit Pants",
-      "price": "460",
+      "price": 460,
       "originalprice": "1,999",
       "discount": "(77% off)",
       "offerprice": "460"
@@ -729,7 +729,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230203/xfHp/63dc1f81f997dd708e362550/azira_red_geometric_print_front-open_shrug.jpg",
       "brand": "AZIRA",
       "title": "Geometric Print Front-Open Shrug",
-      "price": "700",
+      "price": 700,
       "originalprice": "1,399",
       "discount": "(50% off)",
       "offerprice": "602"
@@ -741,7 +741,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220819/fGVp/62fee840aeb2691761853099/tulsattva_beige_lace_shirt_with_puff_sleeves_.jpg",
       "brand": "Tulsattva",
       "title": "Lace Shirt with Puff Sleeves",
-      "price": "995",
+      "price": 995,
       "originalprice": "1,990",
       "discount": "(50% off)",
       "offerprice": "607"
@@ -753,7 +753,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220712/y3aE/62cd87aff997dd03e2cf31bd/cottinfab_multicoloured_floral_print_fit_%26_flare_dress.jpg",
       "brand": "COTTINFAB",
       "title": "Floral Print Fit & Flare Dress",
-      "price": "1,184",
+      "price": 1184,
       "originalprice": "3,199",
       "discount": "(63% off)",
       "offerprice": "832"
@@ -765,7 +765,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230111/KzHp/63be0249f997dd708efde7f8/maniac_black_mid-rise_flat-front_trousers_.jpg",
       "brand": "MANIAC",
       "title": "Mid-Rise Flat-Front Trousers",
-      "price": "266",
+      "price": 266,
       "originalprice": "1,399",
       "discount": "(81% off)",
       "offerprice": "266"
@@ -777,7 +777,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211207/Q6CG/61af9382f997ddf8f140a04d/mayra_black_slim_fit_shirt_with_curved_hemline.jpg",
       "brand": "Mayra",
       "title": "Slim Fit Shirt with Curved Hemline",
-      "price": "388",
+      "price": 388,
       "originalprice": "995",
       "discount": "(61% off)",
       "offerprice": "259"
@@ -789,7 +789,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/4FM1/62bdb81faeb26921af5418a4/lee_cooper_navy_blue_printed_round-neck_t-shirt.jpg",
       "brand": "Lee Cooper",
       "title": "Printed Round-Neck T-shirt",
-      "price": "343",
+      "price": 343,
       "originalprice": "699",
       "discount": "(51% off)",
       "offerprice": "280"
@@ -801,7 +801,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230116/IPqJ/63c56e1baeb269c651e3448e/clafoutis_black_%26_white__pack_of_2_pleated_square-neck_tops.jpg",
       "brand": "Clafoutis",
       "title": "Pack of 2 Pleated Square-Neck Tops",
-      "price": "430",
+      "price": 430,
       "originalprice": "999",
       "discount": "(57% off)",
       "offerprice": "262"
@@ -813,7 +813,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221104/dnrr/636526a1aeb269659c72c6bb/tior_white_floral_print_square-neck_peplum_top.jpg",
       "brand": "Tior",
       "title": "Floral Print Square-Neck Peplum Top",
-      "price": "675",
+      "price": 675,
       "originalprice": "1,499",
       "discount": "(55% off)",
       "offerprice": "412"
@@ -825,7 +825,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220729/GML2/62e3eb17f997dd03e207fec7/kotty_navy_high-rise_straight_fit_pants.jpg",
       "brand": "KOTTY",
       "title": "High-Rise Straight Fit Pants",
-      "price": "460",
+      "price": 460,
       "originalprice": "1,999",
       "discount": "(77% off)",
       "offerprice": "460"
@@ -837,7 +837,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230103/wpvo/63b35366f997ddfdbd0b993f/tior_burgundy_v-neck_fit_%26_flare_dress_.jpg",
       "brand": "Tior",
       "title": "V-Neck Fit & Flare Dress",
-      "price": "720",
+      "price": 720,
       "originalprice": "1,499",
       "discount": "(52% off)",
       "offerprice": "439"
@@ -849,7 +849,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220622/ljuc/62b23f70aeb26921af3ecfde/max_maroon_graphic_print_crew-neck_t-shirt___.jpg",
       "brand": "MAX",
       "title": "Graphic Print Crew-Neck T-shirt",
-      "price": "209",
+      "price": 209,
       "originalprice": "349",
       "discount": "(40% off)",
       "offerprice": "175"
@@ -861,7 +861,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220409/FEoF/6250a59af997dd03e251efd3/marks_%26_spencer_black_flared_flat-front_pant.jpg",
       "brand": "Marks & Spencer",
       "title": "Flared Flat-Front Pant",
-      "price": "1,099",
+      "price": 1099,
       "originalprice": "1,999",
       "discount": "(45% off)",
       "offerprice": "840"
@@ -873,7 +873,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221104/BP7p/63654c33aeb269659c738750/kibo_white_floral_print_v-neck_top.jpg",
       "brand": "Kibo",
       "title": "Floral Print V-Neck Top",
-      "price": "640",
+      "price": 640,
       "originalprice": "1,599",
       "discount": "(60% off)",
       "offerprice": "416"
@@ -885,7 +885,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220524/clFm/628c0e44aeb26921afcbc090/dnmx_blue_skinny_fit_mid-rise_jeans.jpg",
       "brand": "DNMX",
       "title": "Skinny Fit Mid-Rise Jeans",
-      "price": "577",
+      "price": 577,
       "originalprice": "1,049",
       "discount": "(45% off)",
       "offerprice": "525"
@@ -897,7 +897,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220530/l8DE/6294c8e3f997dd03e24681d4/dnmx_dark_blue_lightly_washed_skinny_denim_jeans.jpg",
       "brand": "DNMX",
       "title": "Lightly Washed Skinny Denim Jeans",
-      "price": "577",
+      "price": 577,
       "originalprice": "1,049",
       "discount": "(45% off)",
       "offerprice": "525"
@@ -909,7 +909,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220720/nFHT/62d71e5aaeb26921af8743d2/style_quotient_nude_printed_crew-neck_top.jpg",
       "brand": "Style Quotient",
       "title": "Printed Crew-Neck Top",
-      "price": "572",
+      "price": 572,
       "originalprice": "1,299",
       "discount": "(56% off)",
       "offerprice": "349"
@@ -921,7 +921,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210403/EvqN/60685d417cdb8c1f1474767e/pannkh_navy_blue_novelty_top.jpg",
       "brand": "Pannkh",
       "title": "Novelty Top",
-      "price": "340",
+      "price": 340,
       "originalprice": "999",
       "discount": "(66% off)",
       "offerprice": "300"
@@ -933,7 +933,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230219/RiPB/63f244fbaeb26924e37ab75d/kasya_maroon_v-neck_fit_%26_flare_dress.jpg",
       "brand": "Kasya",
       "title": "V-Neck Fit & Flare Dress",
-      "price": "1,000",
+      "price": 1000,
       "originalprice": "1,999",
       "discount": "(50% off)",
       "offerprice": "860"
@@ -945,7 +945,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220927/uw4j/633318f3f997dd1f8d203158/dj_%26_c_green_floral_print_crew-neck_t-shirt.jpg",
       "brand": "DJ & C",
       "title": "Floral Print Crew-Neck T-Shirt",
-      "price": "209",
+      "price": 209,
       "originalprice": "349",
       "discount": "(40% off)",
       "offerprice": "175"
@@ -957,7 +957,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220826/9Yi8/6307cfadaeb2691761a68e3a/dnmx_white_mid-rise_skinny_fit_jeans.jpg",
       "brand": "DNMX",
       "title": "Mid-Rise Skinny Fit Jeans",
-      "price": "639",
+      "price": 639,
       "originalprice": "799",
       "discount": "(20% off)",
       "offerprice": "639"
@@ -969,7 +969,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220423/pCYz/6262f43ef997dd03e27b30e9/hawt_black_printed_boat-neck_top.jpg",
       "brand": "HAWT",
       "title": "Printed Boat-Neck Top",
-      "price": "239",
+      "price": 239,
       "originalprice": "399",
       "discount": "(40% off)",
       "offerprice": "200"
@@ -981,7 +981,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221124/Nh7D/637eaef2aeb269659caf618e/wedani_pink_floral_print_round-neck_top.jpg",
       "brand": "Wedani",
       "title": "Floral Print Round-Neck Top",
-      "price": "249",
+      "price": 249,
       "originalprice": "1,999",
       "discount": "(88% off)",
       "offerprice": "249"
@@ -993,7 +993,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220319/QxUs/6235b34aaeb26921afe3e9cf/rudraaksha_multi_printed_a-line_dress.jpg",
       "brand": "RUDRAAKSHA",
       "title": "Printed A-line Dress",
-      "price": "600",
+      "price": 600,
       "originalprice": "1,999",
       "discount": "(70% off)",
       "offerprice": "600"
@@ -1005,7 +1005,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220824/oUua/630528ecf997dd394c166d9e/difference_of_opinion_multicoloured_tie_%26_dye_crew-neck_oversized_t-shirt.jpg",
       "brand": "DIFFERENCE OF OPINION",
       "title": "Tie & Dye Crew-Neck Oversized T-shirt",
-      "price": "518",
+      "price": 518,
       "originalprice": "1,399",
       "discount": "(63% off)",
       "offerprice": "364"
@@ -1017,7 +1017,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221006/3IB6/633ef65df997ddfdbd09d5c8/fig_purple_striped_crew-neck_t-shirt.jpg",
       "brand": "FIG",
       "title": "Striped Crew-Neck T-Shirt",
-      "price": "288",
+      "price": 288,
       "originalprice": "599",
       "discount": "(52% off)",
       "offerprice": "204"
@@ -1029,7 +1029,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221006/6B47/633ef57baeb269659c26e684/outryt_medium_blue_lightly_washed_distressed_straight_leg_jeans.jpg",
       "brand": "Outryt",
       "title": "Lightly Washed Distressed Straight Leg Jeans",
-      "price": "860",
+      "price": 860,
       "originalprice": "1,999",
       "discount": "(57% off)",
       "offerprice": "525"
@@ -1041,7 +1041,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220922/JcbU/632c7797f997dd1f8d152423/harpa_pink_polka-dot_print_tailored_fit_peplum_top.jpg",
       "brand": "HARPA",
       "title": "Polka-Dot Print Tailored Fit Peplum Top",
-      "price": "520",
+      "price": 520,
       "originalprice": "1,299",
       "discount": "(60% off)",
       "offerprice": "338"
@@ -1053,7 +1053,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221130/nzbN/63867877aeb269659cc21b04/kibo_pink_micro_print_v-neck_top.jpg",
       "brand": "Kibo",
       "title": "Micro Print V-neck Top",
-      "price": "860",
+      "price": 860,
       "originalprice": "1,999",
       "discount": "(57% off)",
       "offerprice": "525"
@@ -1065,7 +1065,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220524/lHpG/628be4bdf997dd03e21833e9/dnmx_grey_lightly_washed_skinny_jeans.jpg",
       "brand": "DNMX",
       "title": "Lightly Washed Skinny Jeans",
-      "price": "577",
+      "price": 577,
       "originalprice": "1,049",
       "discount": "(45% off)",
       "offerprice": "525"
@@ -1077,7 +1077,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230109/t8cR/63bc1c81f997dd708ef507d5/lee_cooper_blue_high-rise_skinny_fit_jeans.jpg",
       "brand": "Lee Cooper",
       "title": "High-Rise Skinny Fit Jeans",
-      "price": "989",
+      "price": 989,
       "originalprice": "1,799",
       "discount": "(45% off)",
       "offerprice": "989"
@@ -1089,7 +1089,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220526/NHLD/628e9467aeb26921afd913a2/wisstler_black_floral_print_fit_%26_flare_dress.jpg",
       "brand": "Wisstler",
       "title": "Floral Print Fit & Flare Dress",
-      "price": "989",
+      "price": 989,
       "originalprice": "1,799",
       "discount": "(45% off)",
       "offerprice": "989"
@@ -1101,7 +1101,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220222/RZyD/6214063cf997dd03e2e037dc/teamspirit_pink_striped_twofer_top.jpg",
       "brand": "Teamspirit",
       "title": "Striped Twofer Top",
-      "price": "336",
+      "price": 336,
       "originalprice": "699",
       "discount": "(52% off)",
       "offerprice": "238"
@@ -1113,7 +1113,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220201/cE15/61f84d1faeb2695cdd42be73/cottinfab_rust_solid_shirt_with_trousers_set.jpg",
       "brand": "COTTINFAB",
       "title": "Solid Shirt with Trousers Set",
-      "price": "1,386",
+      "price": 1386,
       "originalprice": "3,299",
       "discount": "(58% off)",
       "offerprice": "858"
@@ -1125,7 +1125,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221124/ZLfM/637ea36df997ddfdbd967947/kaff_black_leggings_with_elastic_waist.jpg",
       "brand": "KAFF",
       "title": "Leggings with Elastic Waist",
-      "price": "360",
+      "price": 360,
       "originalprice": "899",
       "discount": "(60% off)",
       "offerprice": "360"
@@ -1137,7 +1137,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220808/kw5E/62f12753aeb26921afcfdbbe/rio_black_skinny_jeggings_with_zip_pockets.jpg",
       "brand": "RIO",
       "title": "Skinny Jeggings with Zip Pockets",
-      "price": "699",
+      "price": 699,
       "originalprice": "999",
       "discount": "(30% off)",
       "offerprice": "500"
@@ -1149,7 +1149,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220628/FWgU/62ba16a6f997dd03e2a197bd/teamspirit_navy_blue_high-rise_sports_leggings.jpg",
       "brand": "Teamspirit",
       "title": "High-Rise Sports Leggings",
-      "price": "480",
+      "price": 480,
       "originalprice": "999",
       "discount": "(52% off)",
       "offerprice": "340"
@@ -1161,7 +1161,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230112/5OCe/63bfe3a5f997dd708e0198c3/jdy_by_only_blue_boyfriend_jeans_with_insert_pockets.jpg",
       "brand": "JDY BY ONLY",
       "title": "Boyfriend Jeans with Insert Pockets",
-      "price": "1,624",
+      "price": 1624,
       "originalprice": "2,499",
       "discount": "(35% off)",
       "offerprice": "1,374"
@@ -1173,7 +1173,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220617/4ASV/62ac820eaeb26921af36258b/masakali.co_pink_floral_print_fit_%26_flare_dress.jpg",
       "brand": "MASAKALI.CO",
       "title": "Floral Print Fit & Flare Dress",
-      "price": "810",
+      "price": 810,
       "originalprice": "2,249",
       "discount": "(64% off)",
       "offerprice": "585"
@@ -1185,7 +1185,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220817/7ssz/62fd1a65aeb26917618090cd/fig_multicoloured_floral_print_top_with_butterfly_sleeves.jpg",
       "brand": "FIG",
       "title": "Floral Print Top with Butterfly Sleeves",
-      "price": "288",
+      "price": 288,
       "originalprice": "599",
       "discount": "(52% off)",
       "offerprice": "204"
@@ -1199,7 +1199,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210426/4jrW/6086b755aeb269a9e3a15573/disney__daisy_duck_round-neck_t-shirt.jpg",
       "brand": "DISNEY",
       "title": "Daisy Duck Round-Neck T-shirt",
-      "price": "75",
+      "price": 75,
       "originalprice": "249",
       "discount": "(70% off)",
       "offerprice": "75"
@@ -1211,7 +1211,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210323/AFXb/6059e624aeb269a9e324ea6d/disney__team_princess_print_crew-neck_t-shirt.jpg",
       "brand": "DISNEY",
       "title": "Team Princess Print Crew-Neck T-shirt",
-      "price": "75",
+      "price": 75,
       "originalprice": "249",
       "discount": "(70% off)",
       "offerprice": "75"
@@ -1223,7 +1223,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221120/KULo/637a6478aeb269659c9e642d/trampoline_multicolor_animal__printed_regular_fit_pyjamas.jpg",
       "brand": "Trampoline",
       "title": "Animal  Printed Regular Fit Pyjamas",
-      "price": "368",
+      "price": 368,
       "originalprice": "969",
       "discount": "(62% off)",
       "offerprice": "252"
@@ -1235,7 +1235,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210422/jkm8/60816f3af997dd7b64bc91c9/other_characters__cartoon_print_crew-neck_t-shirt.jpg",
       "brand": "OTHER CHARACTERS",
       "title": "Cartoon Print Crew-Neck T-shirt",
-      "price": "75",
+      "price": 75,
       "originalprice": "249",
       "discount": "(70% off)",
       "offerprice": "75"
@@ -1247,7 +1247,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210520/7Hd1/60a67a53aeb269a9e3c5049e/disney_black_hulk_print_cotton_shorts_with_drawstrings.jpg",
       "brand": "DISNEY",
       "title": "Hulk Print Cotton Shorts with Drawstrings",
-      "price": "120",
+      "price": 120,
       "originalprice": "399",
       "discount": "(70% off)",
       "offerprice": "120"
@@ -1259,7 +1259,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221120/BORf/637a6472aeb269659c9e631d/trampoline_multicoloured_pack_of_3_heathered_joggers.jpg",
       "brand": "Trampoline",
       "title": "Pack of 3 Heathered Joggers",
-      "price": "733",
+      "price": 733,
       "originalprice": "1,745",
       "discount": "(58% off)",
       "offerprice": "454"
