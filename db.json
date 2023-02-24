@@ -2,13 +2,19 @@
   "users": [
     {
       "id": 1,
-      "title": "hello",
-      "isCompleted": false
+      "title": "user",
+      "firstName" : "Ajay",
+      "lastName" : "Kumar",
+      "email" : "ajay@gmail.com",
+      "password": 12345
     },
     {
       "id": 2,
-      "title": "hello2",
-      "isCompleted": false
+      "title": "admin",
+      "firstName" : "admin",
+      "lastName" : "admin",
+      "email" : "admin@gmail.com",
+      "password": 123123
     }
   ],
   "accounts": [
