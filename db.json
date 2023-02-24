@@ -6,7 +6,7 @@
       "firstName" : "Ajay",
       "lastName" : "Kumar",
       "email" : "ajay@gmail.com",
-      "password": 12345
+      "password": "12345"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "firstName" : "admin",
       "lastName" : "admin",
       "email" : "admin@gmail.com",
-      "password": 123123
+      "password": "123123"
     }
   ],
   "accounts": [
