@@ -84,7 +84,7 @@
       "brand": "NIKE",
       "price": 3380,
       "quantity": 1,
-      "offerprice": 3193
+      "originalprice": 4695
     }
   ],
 
@@ -97,7 +97,7 @@
       "brand": "NIKE",
       "title": "Zip-Front Tracksuit with Placement Logo",
       "price": 3380,
-      "originalprice": "4,695",
+      "originalprice": "4695",
       "discount": "(28% off)",
       "offerprice": "3,193"
     },
