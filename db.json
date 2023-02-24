@@ -77,7 +77,8 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221020/BM2v/63512952f997ddfdbd367050/nike_green_zip-front_tracksuit_with_placement_logo.jpg",
       "brand": "NIKE",
       "price": 3380,
-      "quantity": 1
+      "quantity": 1,
+      "offerprice": 3193
     }
   ],
 
@@ -1210,7 +1211,7 @@
       "brand": "DISNEY",
       "title": "Daisy Duck Round-Neck T-shirt",
       "price": 75,
-      "originalprice": "249",
+      "originalprice": 249,
       "discount": "(70% off)",
       "offerprice": "75"
     },
@@ -1222,7 +1223,7 @@
       "brand": "DISNEY",
       "title": "Team Princess Print Crew-Neck T-shirt",
       "price": 75,
-      "originalprice": "249",
+      "originalprice": 249,
       "discount": "(70% off)",
       "offerprice": "75"
     },
@@ -1281,7 +1282,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210415/ckT4/607835aeaeb269a9e3926016/disney__the_little_mermaid_round-neck_t-shirt.jpg",
       "brand": "DISNEY",
       "title": "The Little Mermaid Round-Neck T-shirt",
-      "price": "135",
+      "price": 135,
       "originalprice": "449",
       "discount": "(70% off)",
       "offerprice": "135"
@@ -1293,7 +1294,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20201216/5YLK/5fda1615aeb269d56340dd1a/kb_team_spirit_orange_numeric_print_henley_t-shirt.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Numeric Print Henley T-shirt",
-      "price": "127",
+      "price": 127,
       "originalprice": "249",
       "discount": "(49% off)",
       "offerprice": "125"
@@ -1305,7 +1306,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220519/ltlk/6285b65bf997dd03e2ede986/toonyport_grey_printed_shorts_%26_t-shirt_set.jpg",
       "brand": "TOONYPORT",
       "title": "Printed Shorts & T-shirt Set",
-      "price": "251",
+      "price": 251,
       "originalprice": "739",
       "discount": "(66% off)",
       "offerprice": "251"
@@ -1317,7 +1318,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/hcd/h96/14765252804638/kb_team_spirit_navy_looper_placement_typographic_print_shorts.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Looper Placement Typographic Print Shorts",
-      "price": "152",
+      "price": 152,
       "originalprice": "299",
       "discount": "(49% off)",
       "offerprice": "150"
@@ -1329,7 +1330,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220624/yOPL/62b57351f997dd03e29c6596/kb_team_spirit_grey_jogger_pants_with_zipper_pockets.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Jogger Pants with Zipper Pockets",
-      "price": "509",
+      "price": 509,
       "originalprice": "599",
       "discount": "(15% off)",
       "offerprice": "479"
@@ -1341,7 +1342,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221006/HEIY/633eeab9aeb269659c26ae99/kb_team_spirit_yellow_%26_beige_checked_3-piece_suit_set_with_bow_tie.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Checked 3-Piece Suit Set with Bow Tie",
-      "price": "900",
+      "price": 900,
       "originalprice": "1,799",
       "discount": "(50% off)",
       "offerprice": "810"
@@ -1353,7 +1354,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220603/u6hQ/629a30a5aeb26921af0d7588/kb_team_spirit_white_printed_shorts_with_elasticated_waist.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Printed Shorts with Elasticated Waist",
-      "price": "264",
+      "price": 264,
       "originalprice": "549",
       "discount": "(52% off)",
       "offerprice": "187"
@@ -1365,7 +1366,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220606/0Uud/629e1afcf997dd03e266b155/kb_team_spirit_black_graphic_print_shorts_with_elasticated_drawstring_waist.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Graphic Print Shorts with Elasticated Drawstring Waist",
-      "price": "264",
+      "price": 264,
       "originalprice": "549",
       "discount": "(52% off)",
       "offerprice": "187"
@@ -1377,7 +1378,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/h21/h9b/13250105770014/kb_team_spirit_black_mid-rise_relaxed_fit_jeans.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Mid-Rise Relaxed Fit Jeans",
-      "price": "424",
+      "price": 424,
       "originalprice": "499",
       "discount": "(15% off)",
       "offerprice": "399"
@@ -1389,7 +1390,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210415/oOWq/607832dbf997dd7b64b2dc4d/disney__minnie_mouse_sequinned_round-neck_t-shirt.jpg",
       "brand": "DISNEY",
       "title": "Minnie Mouse Sequinned Round-Neck T-shirt",
-      "price": "135",
+      "price": 135,
       "originalprice": "449",
       "discount": "(70% off)",
       "offerprice": "135"
@@ -1401,7 +1402,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220929/soqa/6335ae5aaeb269dbb3b0811a/dj_%26_c_white_printed_crew-neck_t-shirt.jpg",
       "brand": "DJ & C",
       "title": "Printed Crew-Neck T-Shirt",
-      "price": "177",
+      "price": 177,
       "originalprice": "249",
       "discount": "(29% off)",
       "offerprice": "174"
@@ -1413,7 +1414,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220819/9Tmq/62ffa39ef997dd394c079b17/kb_team_spirit_white_graphic_print_shirt_with_patch_pockets.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Graphic Print Shirt with Patch Pockets",
-      "price": "275",
+      "price": 275,
       "originalprice": "549",
       "discount": "(50% off)",
       "offerprice": "247"
@@ -1425,7 +1426,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210824/iuS0/6123e9a0aeb269a2687a8876/yb_dnmx_grey_striped_cargo_joggers.jpg",
       "brand": "YB DNMX",
       "title": "Striped Cargo Joggers",
-      "price": "390",
+      "price": 390,
       "originalprice": "1,299",
       "discount": "(70% off)",
       "offerprice": "390"
@@ -1437,7 +1438,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221120/8ECZ/637a6437f997ddfdbd8639b9/trampoline_grey_%26_black_pack_of_2_printed_joggers_.jpg",
       "brand": "Trampoline",
       "title": "Pack of 2 Printed Joggers",
-      "price": "482",
+      "price": 482,
       "originalprice": "1,175",
       "discount": "(59% off)",
       "offerprice": "306"
@@ -1449,7 +1450,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221013/874w/6347fb8aaeb269659c42f9fe/hopscotch_navy_graphic_print_set.jpg",
       "brand": "HOPSCOTCH",
       "title": "Graphic Print Set",
-      "price": "550",
+      "price": 550,
       "originalprice": "1,079",
       "discount": "(49% off)",
       "offerprice": "486"
@@ -1461,7 +1462,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220712/IVsc/62cd8ee6f997dd03e2cfb424/kb_team_spirit_grey_jogger_pants_with_panels.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Jogger Pants with Panels",
-      "price": "384",
+      "price": 384,
       "originalprice": "799",
       "discount": "(52% off)",
       "offerprice": "272"
@@ -1473,7 +1474,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221120/1CBM/637a648ef997ddfdbd8645cd/trampoline_multicolored_pack_of_5_printed_pyjamas.jpg",
       "brand": "Trampoline",
       "title": "Pack of 5 Printed Pyjamas",
-      "price": "486",
+      "price": 486,
       "originalprice": "1,185",
       "discount": "(59% off)",
       "offerprice": "308"
@@ -1485,7 +1486,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220721/Rxxx/62d84aaaf997dd03e2e3e306/kb_team_spirit_blue_printed_shirt_with_mandarin_collar.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Printed Shirt with Mandarin Collar",
-      "price": "275",
+      "price": 275,
       "originalprice": "549",
       "discount": "(50% off)",
       "offerprice": "247"
@@ -1497,7 +1498,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221011/ID4D/63455792aeb269659c3ad819/yb_dnmx_black_slim_fit_cotton_jeans.jpg",
       "brand": "YB DNMX",
       "title": "Slim Fit Cotton Jeans",
-      "price": "577",
+      "price": 577,
       "originalprice": "1,049",
       "discount": "(45% off)",
       "offerprice": "525"
@@ -1509,7 +1510,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211018/8Fvv/616d6c91f997ddf8f1d80392/yb_dnmx_navy_blue_colourblock_crew-neck_pocket_t-shirt.jpg",
       "brand": "YB DNMX",
       "title": "Colourblock Crew-Neck Pocket T-shirt",
-      "price": "180",
+      "price": 180,
       "originalprice": "599",
       "discount": "(70% off)",
       "offerprice": "180"
@@ -1521,7 +1522,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220906/3e2i/6317600bf997dd1f8de7668b/kb_team_spirit_blue_16_wales_corduroy_straight_fit_flat-front_trousers.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "16 Wales Corduroy Straight Fit Flat-Front Trousers",
-      "price": "350",
+      "price": 350,
       "originalprice": "699",
       "discount": "(50% off)",
       "offerprice": "315"
@@ -1533,7 +1534,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220907/qG8i/6318b1fdf997dd1f8deb48e5/kb_team_spirit_grey_heavily_washed_slim_fit_jeans.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Heavily Washed Slim Fit Jeans",
-      "price": "450",
+      "price": 450,
       "originalprice": "899",
       "discount": "(50% off)",
       "offerprice": "405"
@@ -1545,7 +1546,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/hbd/hde/14765301891102/kb_team_spirit_red_looper_placement_typographic_print_shorts.jpg",
       "brand": "KB TEAM SPIRIT",
       "title": "Looper Placement Typographic Print Shorts",
-      "price": "152",
+      "price": 152,
       "originalprice": "299",
       "discount": "(49% off)",
       "offerprice": "150"
@@ -1557,7 +1558,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220530/yxQ3/6294f1a0f997dd03e248212d/yb_dnmx_olive_tropical_print_cargo_shorts.jpg",
       "brand": "YB DNMX",
       "title": "Tropical Print Cargo Shorts",
-      "price": "432",
+      "price": 432,
       "originalprice": "899",
       "discount": "(52% off)",
       "offerprice": "306"
@@ -1569,7 +1570,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220712/sBYb/62cd9298aeb26921af761464/youbella_pink_hair_accessories_set.jpg",
       "brand": "Youbella",
       "title": "Hair Accessories Set",
-      "price": "330",
+      "price": 330,
       "originalprice": "999",
       "discount": "(67% off)",
       "offerprice": "330"
@@ -1581,7 +1582,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220530/EcD2/629483e7aeb26921aff1a7ed/kg_frendz_yellow_floral_print_dungaree_with_waist_tie-up.jpg",
       "brand": "KG FRENDZ",
       "title": "Floral Print Dungaree with Waist Tie-Up",
-      "price": "288",
+      "price": 288,
       "originalprice": "599",
       "discount": "(52% off)",
       "offerprice": "204"
@@ -1593,7 +1594,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220906/xKbl/631764b8f997dd1f8de77ff5/rio_girls_green_polka-dot_print_pleated_culottes.jpg",
       "brand": "RIO GIRLS",
       "title": "Polka-Dot Print Pleated Culottes",
-      "price": "336",
+      "price": 336,
       "originalprice": "699",
       "discount": "(52% off)",
       "offerprice": "238"
@@ -1605,7 +1606,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220712/6d7p/62cd876ef997dd03e2cf288d/youbella_pink_hair_accessories_set.jpg",
       "brand": "Youbella",
       "title": "Hair Accessories Set",
-      "price": "330",
+      "price": 330,
       "originalprice": "999",
       "discount": "(67% off)",
       "offerprice": "330"
@@ -1617,7 +1618,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221117/WEUP/63765aa3f997ddfdbd81fd0f/pink_n_blue_pink_printed_round-neck_t-shirt.jpg",
       "brand": "PINK N BLUE",
       "title": "Printed Round-Neck T-Shirt",
-      "price": "86",
+      "price": 86,
       "originalprice": "179",
       "discount": "(52% off)",
       "offerprice": "86"
@@ -1629,7 +1630,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220301/w0Wq/621e40b0aeb26921afbf3040/kg_frendz_pink_embellished_fit_%26_flare_dress.jpg",
       "brand": "KG FRENDZ",
       "title": "Embellished Fit & Flare Dress",
-      "price": "300",
+      "price": 300,
       "originalprice": "999",
       "discount": "(70% off)",
       "offerprice": "300"
@@ -1641,7 +1642,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220607/5YA2/629f6e8cf997dd03e268e2c0/kg_frendz_white_floral_print_a-line_dress_with_ruffled_overlay.jpg",
       "brand": "KG FRENDZ",
       "title": "Floral Print A-line Dress with Ruffled Overlay",
-      "price": "288",
+      "price": 288,
       "originalprice": "599",
       "discount": "(52% off)",
       "offerprice": "204"
@@ -1653,7 +1654,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220601/r0Gy/6296ba94aeb26921af00e9fb/naughty_ninos_sea_blue_embroidered_jumpsuit.jpg",
       "brand": "NAUGHTY NINOS",
       "title": "Embroidered Jumpsuit",
-      "price": "899",
+      "price": 899,
       "originalprice": "1,499",
       "discount": "(40% off)",
       "offerprice": "899"
@@ -1665,7 +1666,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220713/4B4D/62cede87aeb26921af7890f3/rio_girls_beige_floral_print_fit_%26_flare_dress.jpg",
       "brand": "RIO GIRLS",
       "title": "Floral Print Fit & Flare Dress",
-      "price": "384",
+      "price": 384,
       "originalprice": "799",
       "discount": "(52% off)",
       "offerprice": "272"
@@ -1677,7 +1678,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220812/PmoB/62f58d07f997dd03e241888a/pspeaches_magenta_floral_fit_and_flare_dress.jpg",
       "brand": "Pspeaches",
       "title": "Floral Fit and Flare Dress",
-      "price": "1,125",
+      "price": 1125,
       "originalprice": "2,500",
       "discount": "(55% off)",
       "offerprice": "686"
@@ -1689,7 +1690,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220607/UIrh/629f6a59f997dd03e268cd3a/kg_frendz_navy_blue_printed_strappy_dungarees.jpg",
       "brand": "KG FRENDZ",
       "title": "Printed Strappy Dungarees",
-      "price": "288",
+      "price": 288,
       "originalprice": "599",
       "discount": "(52% off)",
       "offerprice": "204"
@@ -1701,7 +1702,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230124/ztFX/63cff897aeb269c651f6d920/kidderz_navy_blue_floral_print_gathered-neck_top.jpg",
       "brand": "KIDDERZ",
       "title": "Floral Print Gathered-Neck Top",
-      "price": "179",
+      "price": 179,
       "originalprice": "299",
       "discount": "(40% off)",
       "offerprice": "150"
@@ -1713,7 +1714,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220107/bU1Y/61d86222aeb2695cdd09bd2d/kg_frendz_red_geometric_print_dungarees_with_welt_pockets.jpg",
       "brand": "KG FRENDZ",
       "title": "Geometric Print Dungarees with Welt Pockets",
-      "price": "240",
+      "price": 240,
       "originalprice": "799",
       "discount": "(70% off)",
       "offerprice": "240"
@@ -1725,7 +1726,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220729/Mjvm/62e4048ff997dd03e208e32d/rio_girls_white_%26_multicoloured_floral_a_-line_dress_with_ruffles.jpg",
       "brand": "RIO GIRLS",
       "title": "Floral A -line Dress with Ruffles",
-      "price": "384",
+      "price": 384,
       "originalprice": "799",
       "discount": "(52% off)",
       "offerprice": "272"
@@ -1737,7 +1738,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220530/Ap4Q/62950061aeb26921aff5ea0e/kg_frendz_pink_floral_print_joggers_with_ruffles.jpg",
       "brand": "KG FRENDZ",
       "title": "Floral Print Joggers with Ruffles",
-      "price": "216",
+      "price": 216,
       "originalprice": "449",
       "discount": "(52% off)",
       "offerprice": "153"
@@ -1749,7 +1750,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220930/9oYp/6336e49ff997ddfdbdff9b0f/rio_girls_olive_relaxed_fit_chinos_with_insert_pockets.jpg",
       "brand": "RIO GIRLS",
       "title": "Relaxed Fit Chinos with Insert Pockets",
-      "price": "432",
+      "price": 432,
       "originalprice": "899",
       "discount": "(52% off)",
       "offerprice": "306"
@@ -1761,7 +1762,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220530/ILKm/6294e835aeb26921aff54179/rio_girls_navy_blue_floral_print_a-line_dress.jpg",
       "brand": "RIO GIRLS",
       "title": "Floral Print A-line Dress",
-      "price": "288",
+      "price": 288,
       "originalprice": "599",
       "discount": "(52% off)",
       "offerprice": "204"
@@ -1773,7 +1774,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220601/Uni4/62976010aeb26921af051c0c/kg_frendz_orange_%26_white_printed_dungaree_with_t-shirt.jpg",
       "brand": "KG FRENDZ",
       "title": "Printed Dungaree with T-shirt",
-      "price": "432",
+      "price": 432,
       "originalprice": "899",
       "discount": "(52% off)",
       "offerprice": "306"
@@ -1785,7 +1786,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220823/MiLV/6304efacaeb269176196813c/rio_girls_white_%26_yellow_striped_frock_with_pockets.jpg",
       "brand": "RIO GIRLS",
       "title": "Striped Frock with Pockets",
-      "price": "336",
+      "price": 336,
       "originalprice": "699",
       "discount": "(52% off)",
       "offerprice": "238"
@@ -1797,7 +1798,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220818/sWzV/62fd37c4f997dd394cffd93c/rio_girls_blue_shirt_dress_with_waist_tie-up.jpg",
       "brand": "RIO GIRLS",
       "title": "Shirt Dress with Waist Tie-Up",
-      "price": "480",
+      "price": 480,
       "originalprice": "999",
       "discount": "(52% off)",
       "offerprice": "340"
@@ -1809,7 +1810,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220531/gbkq/62956a7caeb26921affa19aa/kg_frendz_navy_blue_printed_frock_with_elasticated_waist.jpg",
       "brand": "KG FRENDZ",
       "title": "Printed Frock with Elasticated Waist",
-      "price": "240",
+      "price": 240,
       "originalprice": "499",
       "discount": "(52% off)",
       "offerprice": "170"
@@ -1821,7 +1822,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221219/bsAO/63a00b1daeb269659cf19e3d/fig_ecru_polka-dot_print_top_with_patch_pockets.jpg",
       "brand": "FIG",
       "title": "Polka-Dot Print Top with Patch Pockets",
-      "price": "679",
+      "price": 679,
       "originalprice": "999",
       "discount": "(32% off)",
       "offerprice": "609"
@@ -1833,7 +1834,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220530/iVsu/6294f0a8f997dd03e2481b86/rio_girls_green_embroidered_round-neck_top.jpg",
       "brand": "RIO GIRLS",
       "title": "Embroidered Round-Neck Top",
-      "price": "384",
+      "price": 384,
       "originalprice": "799",
       "discount": "(52% off)",
       "offerprice": "272"
@@ -1845,7 +1846,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220107/ogdM/61d85670f997dd66231509d0/rio_girls_black_floral_print_leggings_with_elasticated_waistband.jpg",
       "brand": "RIO GIRLS",
       "title": "Floral Print Leggings with Elasticated Waistband",
-      "price": "152",
+      "price": 152,
       "originalprice": "299",
       "discount": "(49% off)",
       "offerprice": "150"
@@ -1857,7 +1858,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210724/alGZ/60fb1a99f997ddb31236c43f/hamleys__led_hover_football.jpg",
       "brand": "HAMLEYS",
       "title": "LED Hover Football",
-      "price": "407",
+      "price": 407,
       "originalprice": "599",
       "discount": "(32% off)",
       "offerprice": "365"
@@ -1869,7 +1870,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/CEXN/62bcb831aeb26921af52a16d/youreka__small_musical_rotating_fishing_game.jpg",
       "brand": "YOUREKA",
       "title": "Small Musical Rotating Fishing Game",
-      "price": "679",
+      "price": 679,
       "originalprice": "999",
       "discount": "(32% off)",
       "offerprice": "609"
@@ -1881,7 +1882,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210618/JGyu/60cba233aeb269a9e3ed9169/nerf__strike_elite_disruptor_gun.jpg",
       "brand": "NERF",
       "title": "Strike Elite Disruptor Gun",
-      "price": "649",
+      "price": 649,
       "originalprice": "999",
       "discount": "(35% off)",
       "offerprice": "609"
@@ -1893,7 +1894,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/gFeI/62bca241aeb26921af5229de/hamleys__squap_catch_ball_game.jpg",
       "brand": "HAMLEYS",
       "title": "Squap Catch Ball Game",
-      "price": "747",
+      "price": 747,
       "originalprice": "1,099",
       "discount": "(32% off)",
       "offerprice": "670"
@@ -1905,7 +1906,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220129/QGTi/61f462d2f997dd662347c8a6/elc__twist_%26_turn_house.jpg",
       "brand": "ELC",
       "title": "Twist & Turn House",
-      "price": "1,087",
+      "price": 1087,
       "originalprice": "1,599",
       "discount": "(32% off)",
       "offerprice": "975"
@@ -1917,7 +1918,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210810/QYU5/61122d4eaeb269a2686e31d3/dihua__2.4_g_remote_control_flip_over_stunt_car_with_lights.jpg",
       "brand": "DIHUA",
       "title": "2.4 G Remote Control Flip Over Stunt Car with Lights",
-      "price": "2,209",
+      "price": 2209,
       "originalprice": "2,599",
       "discount": "(15% off)",
       "offerprice": "1,546"
@@ -1929,7 +1930,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210702/Ooqa/60df2d49aeb269a9e335d15a/hamleys__frozen_2-wheel_scooter.jpg",
       "brand": "HAMLEYS",
       "title": "Frozen 2-wheel Scooter",
-      "price": "2,039",
+      "price": 2039,
       "originalprice": "2,999",
       "discount": "(32% off)",
       "offerprice": "1,829"
@@ -1941,7 +1942,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210619/DB2J/60ccf337aeb269a9e3ef37c6/nerf__elite_2.0_shockwave_rd-15_blaster_30_nerf_darts.jpg",
       "brand": "NERF",
       "title": "Elite 2.0 Shockwave Rd-15 Blaster 30 Nerf Darts",
-      "price": "2,459",
+      "price": 2459,
       "originalprice": "2,999",
       "discount": "(18% off)",
       "offerprice": "1,721"
@@ -1953,7 +1954,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/h7f/h31/12957819928606/funskool__othello_strategy_board_game.jpg",
       "brand": "FUNSKOOL",
       "title": "Othello Strategy Board Game",
-      "price": "527",
+      "price": 527,
       "originalprice": "599",
       "discount": "(12% off)",
       "offerprice": "369"
@@ -1965,7 +1966,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220531/lwqJ/62951e1ff997dd03e24a43a9/nerf__elite_2.0_commander_rd-6_blaster_gun.jpg",
       "brand": "NERF",
       "title": "Elite 2.0 Commander RD-6 Blaster Gun",
-      "price": "1,229",
+      "price": 1229,
       "originalprice": "1,499",
       "discount": "(18% off)",
       "offerprice": "860"
@@ -1977,7 +1978,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210702/yXsj/60df2ec4aeb269a9e335d7dd/hamleys__papa_panda_soft_toy.jpg",
       "brand": "HAMLEYS",
       "title": "Papa Panda Soft Toy",
-      "price": "2,719",
+      "price": 2719,
       "originalprice": "3,999",
       "discount": "(32% off)",
       "offerprice": "2,439"
@@ -1989,7 +1990,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/hb8/ha6/13874323193886/playnxt__indoor_golf_set.jpg",
       "brand": "PLAYNXT",
       "title": "Indoor Golf Set",
-      "price": "1,559",
+      "price": 1559,
       "originalprice": "1,999",
       "discount": "(22% off)",
       "offerprice": "1,091"
@@ -2001,7 +2002,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/BByP/62bcbffeaeb26921af533a51/hamleys__glow_art_sonic_led_drawing_board.jpg",
       "brand": "HAMLEYS",
       "title": "Glow Art Sonic Led Drawing Board",
-      "price": "1,759",
+      "price": 1759,
       "originalprice": "1,999",
       "discount": "(12% off)",
       "offerprice": "1,619"
@@ -2013,7 +2014,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210702/DUcJ/60df2b02aeb269a9e335c9fb/itoys__baby_ball_pool.jpg",
       "brand": "ITOYS",
       "title": "Baby Ball Pool",
-      "price": "2,843",
+      "price": 2843,
       "originalprice": "3,599",
       "discount": "(21% off)",
       "offerprice": "2,555"
@@ -2025,7 +2026,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/sjJh/62bcb294f997dd03e2aa4ff5/hamleys__air_hockey_table_with_adapter.jpg",
       "brand": "HAMLEYS",
       "title": "Air Hockey Table with Adapter",
-      "price": "4,319",
+      "price": 4319,
       "originalprice": "5,999",
       "discount": "(28% off)",
       "offerprice": "3,959"
@@ -2037,7 +2038,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210730/5QS4/61042915f997ddb3124144c3/playnxt__happy_hoops_fun_%26_fitness.jpg",
       "brand": "PLAYNXT",
       "title": "Happy Hoops Fun & Fitness",
-      "price": "330",
+      "price": 330,
       "originalprice": "359",
       "discount": "(8% off)",
       "offerprice": "309"
@@ -2049,7 +2050,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210716/tXlO/60f084a1aeb269a9e3442a20/hamleys__pedro_penguin_soft_cuddler.jpg",
       "brand": "HAMLEYS",
       "title": "Pedro Penguin Soft Cuddler",
-      "price": "2,039",
+      "price": 2039,
       "originalprice": "2,999",
       "discount": "(32% off)",
       "offerprice": "1,829"
@@ -2061,7 +2062,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230104/k5uT/63b5a9a6aeb269659c246acf/karmax__54-piece_mindmagnet_set.jpg",
       "brand": "Karmax",
       "title": "54-Piece Mindmagnet Set",
-      "price": "2,379",
+      "price": 2379,
       "originalprice": "3,499",
       "discount": "(32% off)",
       "offerprice": "2,134"
@@ -2073,7 +2074,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210611/tWn8/60c25d5baeb269a9e3e3d579/hamleys__foosball_game_table.jpg",
       "brand": "HAMLEYS",
       "title": "Foosball Game Table",
-      "price": "3,824",
+      "price": 3824,
       "originalprice": "4,499",
       "discount": "(15% off)",
       "offerprice": "3,644"
@@ -2085,7 +2086,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/NvhQ/62bca4a9aeb26921af523376/kingdom_of_play__ice_cream_%26_candy_cart.jpg",
       "brand": "KINGDOM OF PLAY",
       "title": "Ice Cream & Candy Cart",
-      "price": "1,169",
+      "price": 1169,
       "originalprice": "1,499",
       "discount": "(22% off)",
       "offerprice": "1,064"
@@ -2097,7 +2098,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220601/Z384/6296fa57f997dd03e256522c/mirada__bunny_plush_toy.jpg",
       "brand": "Mirada",
       "title": "Bunny Plush Toy",
-      "price": "791",
+      "price": 791,
       "originalprice": "899",
       "discount": "(12% off)",
       "offerprice": "728"
@@ -2109,7 +2110,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/1BMW/62bcbcd9f997dd03e2aaea6d/shooting_star__pound_peg_plastic_toy_with_hammer.jpg",
       "brand": "SHOOTING STAR",
       "title": "Pound Peg Plastic Toy with Hammer",
-      "price": "407",
+      "price": 407,
       "originalprice": "599",
       "discount": "(32% off)",
       "offerprice": "365"
@@ -2121,7 +2122,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20201005/XhUi/5f7b37bcf997dd8c8357b2c5/hasbro__jenga_tube_pack_with_hardwood_blocks.jpg",
       "brand": "Hasbro",
       "title": "Jenga Tube Pack with Hardwood Blocks",
-      "price": "919",
+      "price": 919,
       "originalprice": "999",
       "discount": "(8% off)",
       "offerprice": "859"
@@ -2133,7 +2134,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210716/1rc9/60f08b24f997ddb312285834/play_panda__magnetic_puzzles_square_large.jpg",
       "brand": "PLAY PANDA",
       "title": "Magnetic Puzzles Square Large",
-      "price": "339",
+      "price": 339,
       "originalprice": "499",
       "discount": "(32% off)",
       "offerprice": "304"
@@ -2145,7 +2146,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220630/u5VB/62bcb750f997dd03e2aa7235/zoozi__mount_%26_play_basketball_set.jpg",
       "brand": "ZOOZI",
       "title": "Mount & Play Basketball Set",
-      "price": "407",
+      "price": 407,
       "originalprice": "599",
       "discount": "(32% off)",
       "offerprice": "365"
@@ -2157,7 +2158,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/h76/hda/17082915192862/hamleys__hamleys_star_basketball.jpg",
       "brand": "HAMLEYS",
       "title": "Hamleys Star Basketball",
-      "price": "679",
+      "price": 679,
       "originalprice": "999",
       "discount": "(32% off)",
       "offerprice": "509"
@@ -2169,7 +2170,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210702/0DSh/60df362ff997ddb312194814/hamleys__spider-man_2-wheel_scooter.jpg",
       "brand": "HAMLEYS",
       "title": "Spider-Man 2-wheel Scooter",
-      "price": "2,039",
+      "price": 2039,
       "originalprice": "2,999",
       "discount": "(32% off)",
       "offerprice": "1,829"
@@ -2893,7 +2894,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221226/S5iA/63a9bb62aeb269659c0cb7d1/zevora_beige_bamboo_pepper_grinder.jpg",
       "brand": "Zevora",
       "title": "Bamboo Pepper Grinder",
-      "price": "336",
+      "price": 336,
       "offerprice": "280",
       "originalprice": "999",
       "discount": "(66% off)"
@@ -2905,7 +2906,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/4MDj/638a1eb0f997ddfdbdb34b73/qura_brown_typographic_engraved_mango_wood_cutting_board.jpg",
       "brand": "QURA",
       "title": "Typographic Engraved Mango Wood Cutting Board",
-      "price": "460",
+      "price": 460,
       "offerprice": "414",
       "originalprice": "2,299",
       "discount": "(80% off)"
@@ -2917,7 +2918,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221028/RO5p/635bf7a7aeb269659c6368c7/market_99_white_%26_brown_sponge_bottle_cleaning_brush_.jpg",
       "brand": "Market 99",
       "title": "Sponge Bottle Cleaning Brush",
-      "price": "299",
+      "price": 299,
       "offerprice": "299",
       "originalprice": "999",
       "discount": "(70% off)"
@@ -2929,7 +2930,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221226/urx2/63a9bc4ff997ddfdbdf88093/zevora_multicoloured_set_of_4_spatula_set.jpg",
       "brand": "Zevora",
       "title": "Set of 4 Spatula Set",
-      "price": "350",
+      "price": 350,
       "offerprice": "300",
       "originalprice": "999",
       "discount": "(65% off)"
@@ -2941,7 +2942,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230207/z2mA/63e26027f997dd708e405a45/market_99_silver_set_of_2__salt_%26_pepper_jar.jpg",
       "brand": "Market 99",
       "title": "Set of 2  Salt & Pepper Jar",
-      "price": "479",
+      "price": 479,
       "offerprice": "407",
       "originalprice": "1,099",
       "discount": "(56% off)"
@@ -2953,7 +2954,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220129/Fas7/61f50474aeb2695cdd3ed84f/kuber_industries_maroon_non-sticky_appam_pan_with_lid.jpg",
       "brand": "Kuber Industries",
       "title": "Non-Sticky Appam Pan with Lid",
-      "price": "430",
+      "price": 430,
       "offerprice": "430",
       "originalprice": "999",
       "discount": "(57% off)"
@@ -2965,7 +2966,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211231/c7jW/61cec0bff997dd66230b4f9c/home_centre_silver_set_of_4_windsor_silver_stainless_steel_bbq_skewer_.jpg",
       "brand": "Home Centre",
       "title": "Set of 4 Windsor Silver Stainless Steel BBQ Skewer",
-      "price": "280",
+      "price": 280,
       "offerprice": "280",
       "originalprice": "549",
       "discount": "(49% off)"
@@ -2977,7 +2978,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220724/7Idq/62dd0ce5aeb26921af932788/home_centre_silver_corsica_stainless_steel_coconut_scraper.jpg",
       "brand": "Home Centre",
       "title": "Corsica Stainless Steel Coconut Scraper",
-      "price": "390",
+      "price": 390,
       "offerprice": "357",
       "originalprice": "549",
       "discount": "(29% off)"
@@ -2989,7 +2990,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230214/xpFO/63eada59aeb26924e36d586a/market_99_turquoise_pack_of_3_plastic_knife_.jpg",
       "brand": "Market 99",
       "title": "Pack of 3 Plastic Knife",
-      "price": "244",
+      "price": 244,
       "offerprice": "244",
       "originalprice": "659",
       "discount": "(63% off)"
@@ -3001,7 +3002,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230214/8Wnp/63eada60aeb26924e36d595a/market_99_pink_plastic_knife_with_cover.jpg",
       "brand": "Market 99",
       "title": "Plastic Knife With Cover",
-      "price": "241",
+      "price": 241,
       "offerprice": "241",
       "originalprice": "659",
       "discount": "(63% off)"
@@ -3013,7 +3014,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220617/cbm4/62ab9706f997dd03e283e883/home_centre_silver_stainless_steel_idli_maker_with_stand.jpg",
       "brand": "Home Centre",
       "title": "Stainless Steel Idli Maker with Stand",
-      "price": "489",
+      "price": 489,
       "offerprice": "454",
       "originalprice": "699",
       "discount": "(30% off)"
@@ -3025,7 +3026,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/EgrJ/638a34b3f997ddfdbdb48af5/qura_multicoloured_colorblock_marble_%26_mango_wood_round_chopping_board.jpg",
       "brand": "QURA",
       "title": "Colorblock Marble & Mango Wood Round Chopping Board",
-      "price": "480",
+      "price": 480,
       "offerprice": "432",
       "originalprice": "2,399",
       "discount": "(80% off)"
@@ -3037,7 +3038,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220222/rBo5/621479fcaeb26921afaa3cf1/vareesha_red_handi_ceramic_salt_%26_pepper_set.jpg",
       "brand": "VAREESHA",
       "title": "Handi Ceramic Salt & Pepper Set",
-      "price": "401",
+      "price": 401,
       "offerprice": "401",
       "originalprice": "699",
       "discount": "(43% off)"
@@ -3049,7 +3050,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220902/Bwue/63124839f997dd1f8dda30d8/home_centre_black_truffles_zagora_spoon.jpg",
       "brand": "Home Centre",
       "title": "Truffles Zagora Spoon",
-      "price": "199",
+      "price": 199,
       "offerprice": "187",
       "originalprice": "249",
       "discount": "(20% off)"
@@ -3061,7 +3062,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221028/ioOs/635bf77daeb269659c6363ac/market_99_green_pack_of_1_silicone_spatula.jpg",
       "brand": "Market 99",
       "title": "pack of 1 Silicone Spatula",
-      "price": "259",
+      "price": 259,
       "offerprice": "259",
       "originalprice": "699",
       "discount": "(63% off)"
@@ -3073,7 +3074,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/OGzo/638a2eefaeb269659ccae406/qura_natural_colorblock_stone_%26_acacia_wood_chopping_board.jpg",
       "brand": "QURA",
       "title": "Colorblock Stone & Acacia Wood Chopping Board",
-      "price": "437",
+      "price": 437,
       "offerprice": "393",
       "originalprice": "2,299",
       "discount": "(81% off)"
@@ -3085,7 +3086,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210506/G27t/6092e602f997ddb312908a5b/muji_white_striped_washing_board.jpg",
       "brand": "MUJI",
       "title": "Striped Washing Board",
-      "price": "343",
+      "price": 343,
       "offerprice": "284",
       "originalprice": "490",
       "discount": "(30% off)"
@@ -3097,7 +3098,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230207/AdPV/63e26022f997dd708e405969/market_99_yellow_pack_of_1_ice_cream_mould.jpg",
       "brand": "Market 99",
       "title": "Pack of 1 Ice Cream Mould",
-      "price": "376",
+      "price": 376,
       "offerprice": "376",
       "originalprice": "799",
       "discount": "(53% off)"
@@ -3109,7 +3110,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221028/Qdh7/635bf720aeb269659c6357fd/market_99_pink_pack_of_1_rice_strainer.jpg",
       "brand": "Market 99",
       "title": "Pack of 1 Rice Strainer",
-      "price": "493",
+      "price": 493,
       "offerprice": "493",
       "originalprice": "699",
       "discount": "(30% off)"
@@ -3121,7 +3122,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211231/E4nO/61cec1bcaeb2695cdd0027ff/home_centre_black_stainless_steel_basting_brush.jpg",
       "brand": "Home Centre",
       "title": "Stainless Steel Basting Brush",
-      "price": "329",
+      "price": 329,
       "offerprice": "329",
       "originalprice": "599",
       "discount": "(45% off)"
@@ -3133,7 +3134,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230214/CYO1/63ead9d9aeb26924e36d4604/market_99_silver%0Alight_brown_%26%0Adark_brown_metallic_round_basket.jpg",
       "brand": "Market 99",
       "title": "Metallic Round Basket",
-      "price": "426",
+      "price": 426,
       "offerprice": "426",
       "originalprice": "999",
       "discount": "(57% off)"
@@ -3145,7 +3146,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/oPHV/638a3231f997ddfdbdb439bd/qura_natural_minimalistic_raw_acacia_wood_chopping_board.jpg",
       "brand": "QURA",
       "title": "Minimalistic Raw Acacia Wood Chopping Board",
-      "price": "475",
+      "price": 475,
       "offerprice": "428",
       "originalprice": "2,499",
       "discount": "(81% off)"
@@ -3157,7 +3158,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/nRG9/638a0e4df997ddfdbdb2e3cf/qura_brown_hand_etched_made_with_love_cutting_board_with_leather_strap.jpg",
       "brand": "QURA",
       "title": "Hand Etched Made with Love Cutting Board with Leather Strap",
-      "price": "361",
+      "price": 361,
       "offerprice": "325",
       "originalprice": "1,899",
       "discount": "(81% off)"
@@ -3169,7 +3170,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221028/AuyT/635bf799aeb269659c636712/market_99_white_cleaning_dish_brush.jpg",
       "brand": "Market 99",
       "title": "Cleaning Dish Brush",
-      "price": "336",
+      "price": 336,
       "offerprice": "336",
       "originalprice": "799",
       "discount": "(58% off)"
@@ -3181,7 +3182,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/k3Kp/638a1b84aeb269659cca68ae/qura_brown_set_of_engraved_mango_wood_drink_tags.jpg",
       "brand": "QURA",
       "title": "Set of Engraved Mango Wood Drink Tags",
-      "price": "437",
+      "price": 437,
       "offerprice": "393",
       "originalprice": "2,299",
       "discount": "(81% off)"
@@ -3193,7 +3194,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/WRri/638a0d74f997ddfdbdb2ddcd/qura_brown_hand_etched_cutting_board_with_leather_strap.jpg",
       "brand": "QURA",
       "title": "Hand Etched Cutting Board with Leather Strap",
-      "price": "361",
+      "price": 361,
       "offerprice": "325",
       "originalprice": "1,899",
       "discount": "(81% off)"
@@ -3205,7 +3206,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220129/rlo1/61f50accaeb2695cdd3f31d2/kuber_industries_green_pack_of_3_strainer_colanders_with_long_handle_.jpg",
       "brand": "Kuber Industries",
       "title": "Pack of 3 Strainer Colanders with Long Handle",
-      "price": "430",
+      "price": 430,
       "offerprice": "430",
       "originalprice": "999",
       "discount": "(57% off)"
@@ -3217,7 +3218,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/ZVTY/638a23f8f997ddfdbdb36e83/qura_natural_minimal_natural_textured_acacia_wood_chopping_board.jpg",
       "brand": "QURA",
       "title": "Minimal Natural Textured Acacia Wood Chopping Board",
-      "price": "342",
+      "price": 342,
       "offerprice": "308",
       "originalprice": "1,799",
       "discount": "(81% off)"
@@ -3229,7 +3230,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221202/iFBg/638a0faff997ddfdbdb2eb34/qura_brown_%26_white_hand-cut_mango_wood_%26_resin_whale_chopping_board.jpg",
       "brand": "QURA",
       "title": "Hand-Cut Mango Wood & Resin Whale Chopping Board",
-      "price": "399",
+      "price": 399,
       "offerprice": "359",
       "originalprice": "2,099",
       "discount": "(81% off)"
@@ -3241,7 +3242,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221227/OjEL/63aacf42f997ddfdbdfa92dd/home_sizzler_beige__blackout_eyelet_curtain.jpg",
       "brand": "Home Sizzler",
       "title": "Blackout Eyelet Curtain",
-      "price": "412",
+      "price": 412,
       "originalprice": "799",
       "discount": "(48% off)",
       "offerprice": "280"
@@ -3253,7 +3254,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220325/ewDa/623d5e39f997dd03e231bf65/good_homes_grey_geometric_print_double_size_bedsheet_.jpg",
       "brand": "Good Homes",
       "title": "Geometric Print Double Size Bedsheet",
-      "price": "330",
+      "price": 330,
       "originalprice": "1,099",
       "discount": "(70% off)",
       "offerprice": "308"
@@ -3265,7 +3266,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220519/9vTG/62859361aeb26921afa3befb/stellar_home_grey_cotton_hand_towel_24%22_x_16%22.jpg",
       "brand": "STELLAR HOME",
       "title": "Cotton Hand Towel 24",
-      "price": "115",
+      "price": 115,
       "originalprice": "229",
       "discount": "(50% off)",
       "offerprice": "103"
@@ -3277,7 +3278,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220222/UchV/6214919ff997dd03e2e49050/aazeem_blue_geometric_pattern_anti_skid_door_mat_16%22_x_24%22.jpg",
       "brand": "AAZEEM",
       "title": "Geometric Pattern Anti Skid Door Mat",
-      "price": "225",
+      "price": 225,
       "originalprice": "499",
       "discount": "(55% off)",
       "offerprice": "225"
@@ -3289,7 +3290,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230106/6Rt0/63b83ab7f997dd708edb9959/homez_sparrow_blue_%26_grey_striped_single-size_bedsheet_with_pillow_cover.jpg",
       "brand": "HOMEZ SPARROW",
       "title": "Striped Single-Size Bedsheet with Pillow Cover",
-      "price": "165",
+      "price": 165,
       "originalprice": "1,500",
       "discount": "(89% off)",
       "offerprice": "165"
@@ -3301,7 +3302,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220518/ONo9/6284c682aeb26921af9e802f/stellar_home_blue_cotton_hand_towel_24%22_x_16%22.jpg",
       "brand": "STELLAR HOME",
       "title": "Cotton Hand Towel 24",
-      "price": "115",
+      "price": 115,
       "originalprice": "229",
       "discount": "(50% off)",
       "offerprice": "103"
@@ -3313,7 +3314,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221223/TURj/63a4c771f997ddfdbdef447d/homez_sparrow_multicoloured_striped_handmade_single_besheet_set.jpg",
       "brand": "HOMEZ SPARROW",
       "title": "Striped Handmade Single Besheet Set",
-      "price": "165",
+      "price": 165,
       "originalprice": "1,500",
       "discount": "(89% off)",
       "offerprice": "165"
@@ -3325,7 +3326,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230110/vUVG/63bc7c48aeb269c651d0deba/homefab_india_grey_120_tc_floral_print_double_bedsheet_with_pillow_covers.jpg",
       "brand": "Homefab India",
       "title": "120 TC Floral Print Double Bedsheet with Pillow Covers",
-      "price": "380",
+      "price": 380,
       "originalprice": "999",
       "discount": "(62% off)",
       "offerprice": "280"
@@ -3337,7 +3338,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20210923/QPig/614cab14f997ddce89dc5f82/aawiclo_home_assorted_pack_of_5_wind_chimes.jpg",
       "brand": "Aawiclo Home",
       "title": "Pack of 5 Wind Chimes",
-      "price": "206",
+      "price": 206,
       "originalprice": "480",
       "discount": "(57% off)",
       "offerprice": "206"
@@ -3349,7 +3350,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220811/BJWG/62f4bf92aeb26921afde8609/mafatlal_green_floral_print_double_size_bedsheet_with_2_pillow_covers.jpg",
       "brand": "Mafatlal",
       "title": "Floral Print Double Size Bedsheet with 2 Pillow Covers",
-      "price": "493",
+      "price": 493,
       "originalprice": "1,699",
       "discount": "(71% off)",
       "offerprice": "476"
@@ -3361,7 +3362,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221124/zj4Y/637ea0bcaeb269659cae1531/home_sizzler_grey_set_of_2_tropical_print_door_semi-sheer_door_curtains.jpg",
       "brand": "Home Sizzler",
       "title": "Set of 2 Tropical Print Door Semi-Sheer Door Curtains",
-      "price": "372",
+      "price": 372,
       "originalprice": "799",
       "discount": "(53% off)",
       "offerprice": "372"
@@ -3373,7 +3374,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220929/leSQ/6334c856aeb269dbb3affef9/uniqchoice_yellow_geometric_print_double_bedsheet_with_pillow_covers.jpg",
       "brand": "UniqChoice",
       "title": "Geometric Print Double Bedsheet with Pillow Covers",
-      "price": "425",
+      "price": 425,
       "originalprice": "1,599",
       "discount": "(73% off)",
       "offerprice": "425"
@@ -3385,7 +3386,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220520/S4SS/62870d29aeb26921afaedfce/stellar_home_burgundy_cotton_hand_towel_24%22_x_16%22.jpg",
       "brand": "STELLAR HOME",
       "title": "Cotton Hand Towel 24",
-      "price": "115",
+      "price": 115,
       "originalprice": "229",
       "discount": "(50% off)",
       "offerprice": "103"
@@ -3397,7 +3398,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220913/eL28/63206e5ff997dd1f8dfa9972/uniqchoice_maroon_polka-dot_cotton_jaipuri_traditonal_double_bedsheet_with_2_pillow_cover.jpg",
       "brand": "UniqChoice",
       "title": "Polka-dot Cotton Jaipuri Traditonal Double BedSheet With 2 Pillow Cover",
-      "price": "425",
+      "price": 425,
       "originalprice": "1,599",
       "discount": "(73% off)",
       "offerprice": "425"
@@ -3409,7 +3410,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221206/uoTI/638e6e78aeb269659cd38b8a/home_sizzler_wine_textured_print_blackout_door_curtain_.jpg",
       "brand": "Home Sizzler",
       "title": "Textured Print Blackout Door Curtain",
-      "price": "404",
+      "price": 404,
       "originalprice": "799",
       "discount": "(49% off)",
       "offerprice": "404"
@@ -3421,7 +3422,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211221/fmDk/61c0eb5af997ddf8f1588479/homefab_india_multicoloured_geometric_print_double_bedsheet_with_pillow_covers.jpg",
       "brand": "Homefab India",
       "title": "Geometric Print Double Bedsheet with Pillow Covers",
-      "price": "340",
+      "price": 340,
       "originalprice": "999",
       "discount": "(66% off)",
       "offerprice": "340"
@@ -3433,7 +3434,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20230207/2R4g/63e20e4faeb269c65114ffca/market_99_green_butter_dish_with_lid.jpg",
       "brand": "Market 99",
       "title": "Butter Dish with Lid",
-      "price": "359",
+      "price": 359,
       "originalprice": "1,329",
       "discount": "(73% off)",
       "offerprice": "359"
@@ -3445,7 +3446,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220316/idrR/6231dc87f997dd03e2186cd5/rangoli_multi_cotton_stripes_hair_towel.jpg",
       "brand": "RANGOLI",
       "title": "Cotton Stripes Hair Towel",
-      "price": "202",
+      "price": 202,
       "originalprice": "399",
       "discount": "(49% off)",
       "offerprice": "202"
@@ -3457,7 +3458,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20221018/h68c/634dc1caf997ddfdbd2e7b9b/homez_sparrow_blue_striped_king_size_bedsheet_with_pillow_covers.jpg",
       "brand": "HOMEZ SPARROW",
       "title": "Striped King Size Bedsheet with Pillow Covers",
-      "price": "420",
+      "price": 420,
       "originalprice": "3,000",
       "discount": "(86% off)",
       "offerprice": "420"
@@ -3469,7 +3470,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220621/7QIU/62b1ddf0aeb26921af3c75bb/home_expressions_usa_beige_set_of_2_cushion_covers_with_woven_motifs_16%22_x_16%22.jpg",
       "brand": "Home Expressions USA",
       "title": "Set of 2 Cushion Covers with Woven Motifs 16",
-      "price": "315",
+      "price": 315,
       "originalprice": "899",
       "discount": "(65% off)",
       "offerprice": "270"
@@ -3481,7 +3482,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20211225/vC53/61c63961f997ddf8f16113b5/homefab_india_blue_140_tc_double_bedsheet_with_pillow_covers.jpg",
       "brand": "Homefab India",
       "title": "140 TC Double Bedsheet with Pillow Covers",
-      "price": "340",
+      "price": 340,
       "originalprice": "999",
       "discount": "(66% off)",
       "offerprice": "340"
@@ -3493,7 +3494,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220330/M7nw/62436ff3aeb26921affef5c3/home_sizzler_brown_garden_panel_abstract_window_curtains.jpg",
       "brand": "Home Sizzler",
       "title": "Garden Panel Abstract Window Curtains",
-      "price": "344",
+      "price": 344,
       "originalprice": "799",
       "discount": "(57% off)",
       "offerprice": "344"
@@ -3505,7 +3506,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220330/pImX/624371f0aeb26921afff1b45/homefab_india_cream_pack_of_2_grommet_window_curtains.jpg",
       "brand": "Homefab India",
       "title": "Pack of 2 Grommet Window Curtains",
-      "price": "410",
+      "price": 410,
       "originalprice": "999",
       "discount": "(59% off)",
       "offerprice": "410"
@@ -3517,7 +3518,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220122/oXPV/61eb1a60aeb2695cdd28b2bc/homez_sparrow_pink_210_tc_striped_king_bedsheet_with__pillow_covers.jpg",
       "brand": "HOMEZ SPARROW",
       "title": "210 TC Striped King Bedsheet with  Pillow covers",
-      "price": "440",
+      "price": 440,
       "originalprice": "1,999",
       "discount": "(78% off)",
       "offerprice": "440"
@@ -3529,7 +3530,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220221/rJpj/6213a773aeb26921afa5ac57/homefab_india_maroon_140_tc_printed_single_bedsheet_with_pillow_cover.jpg",
       "brand": "Homefab India",
       "title": "140 TC Printed Single Bedsheet with Pillow Cover",
-      "price": "227",
+      "price": 227,
       "originalprice": "599",
       "discount": "(62% off)",
       "offerprice": "227"
@@ -3541,7 +3542,7 @@
       "image": "https://assets.ajio.com/medias/sys_master/root/20220928/EKGb/63337ac2aeb269dbb3acf808/homez_sparrow_purple_150_tc_double_bedsheet_with_2_pillow_covers.jpg",
       "brand": "HOMEZ SPARROW",
       "title": "150 TC Double Bedsheet with 2 Pillow Covers",
-      "price": "420",
+      "price": 420,
       "originalprice": "3,000",
       "discount": "(86% off)",
       "offerprice": "420"
