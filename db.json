@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "user",
-      "firstName" : "Ajay",
-      "lastName" : "Kumar",
-      "email" : "ajay@gmail.com",
+      "firstName": "Ajay",
+      "lastName": "Kumar",
+      "email": "ajay@gmail.com",
       "password": "12345"
     },
     {
       "id": 2,
       "title": "admin",
-      "firstName" : "admin",
-      "lastName" : "admin",
-      "email" : "admin@gmail.com",
+      "firstName": "admin",
+      "lastName": "admin",
+      "email": "admin@gmail.com",
       "password": "123123"
     }
   ],
@@ -76,17 +76,7 @@
       "borrowed": false
     }
   ],
-  "cart": [
-    {
-      "id": 1,
-      "title": "Zip-Front Tracksuit with Placement Logo",
-      "image": "https://assets.ajio.com/medias/sys_master/root/20221020/BM2v/63512952f997ddfdbd367050/nike_green_zip-front_tracksuit_with_placement_logo.jpg",
-      "brand": "NIKE",
-      "price": 3380,
-      "quantity": 1,
-      "originalprice": 4695
-    }
-  ],
+  "cart": [],
 
   "mens": [
     {
